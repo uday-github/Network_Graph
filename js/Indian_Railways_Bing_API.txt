@@ -1,0 +1,1749 @@
+{
+  "_type": "News",
+  "readLink": "https://api.cognitive.microsoft.com/api/v5/news/search?q=Indian+Railways+",
+  "totalEstimatedMatches": 13700,
+  "value": [
+    {
+      "name": "Indian Railways to install solar panels in all railway buildings",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=_kxiOKHG9z3EJ4WckxX9TRuBvysuaXg1HWgrYxOb_ts&v=1&r=http%3a%2f%2fwww.aninews.in%2fnewsdetail-MTBVZHF3dg%2fMjcyMzc4VWRxd3Y%2findian-railways-to-install-solar-panels-in-all-railway-buildings.html&p=DevEx,5007.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.85A1DCB3605DC8FB6007E72227AD5E72&pid=News",
+          "width": 600,
+          "height": 375
+        }
+      },
+      "description": "New Delhi, July 18 (ANI): Delhiites who have been craving for heavy showers to bring down the temperature have been granted their wish, however, it seems to have brought along with it a host of other problems, most problematic and inconvenient being ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/c4d53a51-91e9-d93e-5e98-89d4dc6ea279",
+          "name": "Don Det – Don Khon narrow gauge railway"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "ANI NEWS"
+        }
+      ],
+      "datePublished": "2016-07-18T04:26:00"
+    },
+    {
+      "name": "Indian Railways to turn luxury coaches into vintage restaurants",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=4tJluWmBoyl3brTPzzlFkFAmzT-zos_huIXcLHeV6-w&v=1&r=http%3a%2f%2fwww.businesstoday.in%2fsectors%2finfra%2findian-railways-to-turn-luxury-coaches-into-vintage-restaurants%2fstory%2f235128.html&p=DevEx,5009.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.05EB787EBC3A2A6BE20993DD7C5BB187&pid=News",
+          "width": 660,
+          "height": 450
+        }
+      },
+      "description": "For those who cannot afford a ride on the luxurious Palace of Wheels, here's an opportunity to unwind and enjoy the royal meals in thematic vintage hotels to be constructed in these coaches. The Indian Railways want its catering and tourism PSU - IRCTC to ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/3a8bac98-4b00-42a8-143d-2df973c9b3f8",
+          "name": "Indian Railways"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/aa392ee5-e4ae-778d-ac83-7ad2b56ec7e4",
+          "name": "Vintage"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "businesstoday.in"
+        }
+      ],
+      "datePublished": "2016-07-18T03:50:00",
+      "category": "India"
+    },
+    {
+      "name": "Indian Railways' 'Auto Express' to Speed Up Automobile Deliveries",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=f0cwjQ7y-D89eTtdUD5kTzrCbiBHQEi9V6fddiMpp5I&v=1&r=http%3a%2f%2fauto.ndtv.com%2fnews%2findian-railways-auto-express-to-speed-up-automobile-deliveries-1431264&p=DevEx,5011.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.66D49DA5A35FA7A1F8CAD0377F408CBB&pid=News",
+          "width": 700,
+          "height": 431
+        }
+      },
+      "description": "Indian Railways (IR) is aiming at 25% share in automobile freight traffic Auto Express will ferry cargo from Gurgaon to Nidvanda In April, IR had announced India's first rail auto hub in Walajabad In an effort to target 25 per cent share in automobile ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/d44502be-73b7-eea1-9b32-5d06338000eb",
+          "name": "Auto Express"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/f2f96742-884d-058b-1cd7-c498eda45bee",
+          "name": "Speed Up"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/3a8bac98-4b00-42a8-143d-2df973c9b3f8",
+          "name": "Indian Railways"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "NDTV"
+        }
+      ],
+      "datePublished": "2016-07-14",
+      "category": "Business"
+    },
+    {
+      "name": "Indian Railways Modernization: Battery Operated Cars For Disabled & Elderly; TRI NETRA To Avoid Train Accidents",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=FMFEg7SYOMcyczOON5qk9C8vTFLtyV4eJT9BBgR-Oew&v=1&r=http%3a%2f%2ftrak.in%2ftags%2fbusiness%2f2016%2f07%2f11%2findian-railways-boc-disabled-elderly-tri-netra-train-accidents%2f&p=DevEx,5013.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.15B487750282F1446DF5A6C42ABB5F97&pid=News",
+          "width": 700,
+          "height": 324
+        }
+      },
+      "description": "The Indian Railways seems to be gobbling down some news space as it brings out new reforms. The first one is: It has decided to introduce Battery operated cars (BoC) to make it convenient for disabled, ailing and elderly citizens in major railway stations.",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/3a8bac98-4b00-42a8-143d-2df973c9b3f8",
+          "name": "Indian Railways"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/993e5ea5-6630-9803-bc99-66416e09d80d",
+          "name": "Train"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/559e841e-a914-4521-dc45-e0f0f44fe1d3",
+          "name": "DRDO NETRA"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Trak.in"
+        }
+      ],
+      "datePublished": "2016-07-12T10:49:00",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "name": "Indian Railways train delay reduced by 30 per cent: Survey",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=VVTcjIlbaB2tUE8NTU6MaVRO9SdA24ZTJOZopjerTFU&v=1&r=http%3a%2f%2fwww.financialexpress.com%2feconomy%2findian-railways-train-delay-reduced-30-per-cent-survey%2f318954%2f&p=DevEx,5015.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.6D0B96986CDA35B8F17962FAD5C9125E&pid=News",
+          "width": 660,
+          "height": 440
+        }
+      },
+      "description": "The average delay in train services of Indian Railways has come down by nearly 30 per cent since the beginning of the year, according to a survey. Based on a comprehensive analysis done over the last six months across more than 2,500 important train ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/cc6adbe1-d871-c1c0-dc8d-c59eee2d09d6",
+          "name": "Train"
+        }
+      ],
+      "mentions": [
+        {
+          "name": "Train"
+        },
+        {
+          "name": "Burau representation"
+        },
+        {
+          "name": "Indian Railways"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Financial Express"
+        }
+      ],
+      "datePublished": "2016-07-16T18:03:00",
+      "category": "LifeStyle"
+    },
+    {
+      "name": "Delhi to Mumbai in less than 12 hours? Talgo will first have to pass these three tests by Indian Railways",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=h1fcmFw3v2dSpURA69JCVeYogjpr82u4X16_PuaOjsM&v=1&r=http%3a%2f%2fwww.financialexpress.com%2findia-news%2ftalgo-trials-indian-railways-suresh-prabhu-delhi-mumbai-rajdhani-high-speed-train%2f316425%2f&p=DevEx,5017.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.9679A2C8DE3A880D52A393212E4911AD&pid=News",
+          "width": 660,
+          "height": 440
+        }
+      },
+      "description": "Talgo, the Spanish manufacturer of high-speed trains, has taken up the challenge of covering the distance between Delhi and Mumbai in less than 12 hours, with the help of its “light-weight” coaches. Currently, the Rajdhani covers the 1,388 km distance ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/fbbc8d69-667a-e1ff-34bf-e524be01025d",
+          "name": "Mumbai"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/275e8ab8-7bd0-4633-9c89-0133be92e587",
+          "name": "Delhi"
+        }
+      ],
+      "mentions": [
+        {
+          "name": "Mumbai"
+        },
+        {
+          "name": "Delhi"
+        },
+        {
+          "name": "Less-than sign"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Financial Express"
+        }
+      ],
+      "datePublished": "2016-07-14T12:18:00",
+      "category": "LifeStyle"
+    },
+    {
+      "name": "Indian Railways, travel agency directed to pay Rs 6,000 for charging Rs 60 extra",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=r_SpYMK8-Gq3-Ktfh6lQyemjzyvQz4dLYNvDKNvZNOU&v=1&r=http%3a%2f%2fwww.hindustantimes.com%2fpunjab%2findian-railways-travel-agency-directed-to-pay-rs-6-000-for-charging-rs-60-extra%2fstory-6hIa9dqLjKB7oVdEKFAd8I.html&p=DevEx,5019.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.87E206CF5D01A863D554282ED0B35E38&pid=News",
+          "width": 700,
+          "height": 390
+        }
+      },
+      "description": "Sunil Kapoor of Civil Lines was overcharged when he booked tickets through Rail Travellers Service Agents (RTSA) of the Indian Railways based in Ludhiana in 2007. (Representative image ) A nine-year-old legal battle with the Indian Railways in which a city ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/d98d08e1-818e-a7ba-30a5-4637a11eec3e",
+          "name": "Punjab"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/801a768e-b77c-04be-b6fb-136cf7f956e5",
+          "name": "Rail"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/4fe920fe-e4d2-6fd1-32b2-6ef5884e9027",
+          "name": "Travel agency"
+        }
+      ],
+      "mentions": [
+        {
+          "name": "Punjab"
+        },
+        {
+          "name": "Rail"
+        },
+        {
+          "name": "Travel agency"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Hindustan Times"
+        }
+      ],
+      "datePublished": "2016-07-12T09:54:00",
+      "category": "LifeStyle"
+    },
+    {
+      "name": "Indian Railways flags off state of the art train to transport cars",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=teA6tLzCZ-oVBteHjWayVm6t20kZQvsF-sjgEqlsQu8&v=1&r=http%3a%2f%2fwww.rushlane.com%2fstate-of-the-art-train-to-transport-cars-12200621.html&p=DevEx,5021.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.EAEE010E31DDDFFB71C40E910CDA60C4&pid=News",
+          "width": 700,
+          "height": 452
+        }
+      },
+      "description": "Indian Railways launches Time Tabled Auto Express for quick delivery of automobiles between Gurgaon to Nidvanda. India Railways officially launched a special Time Tabled Auto Express freight train. This express train will ensure faster delivery of ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/a69a2862-3f73-8e55-7ed0-9e5132b80ad8",
+          "name": "Train"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/ae0d8f64-b66f-f17d-3f12-790625acf480",
+          "name": "Cars"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/3cbd7bed-2690-957b-2ee3-7352e5c01887",
+          "name": "Transport"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Rush Lane"
+        }
+      ],
+      "datePublished": "2016-07-14T11:17:00",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "name": "Indian Railways going back to IRCTC for catering services",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=P2cQNnBFkYoU6dfJWk0AEkgk24OwZADIqmt6W11mrao&v=1&r=http%3a%2f%2fnews.franchiseindia.com%2frestaurant%2fIndian-Railways-going-back-to-IRCTC-for-catering-services.n13378&p=DevEx,5023.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.CDA1A7B87A088168BA0212845DEF7177&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "In a boomerang shift, Indian Railways has gone back to Indian Railway Catering and Tourism Corporation (IRCTC) to handle the catering business in trains. In the recent development, IRCTC will empanel firms which will supply ‘Ready To Eat’ (RTE) meals ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/3a8bac98-4b00-42a8-143d-2df973c9b3f8",
+          "name": "Indian Railways"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/1f3e5de2-0ece-dc23-fcae-94b4b9446ee6",
+          "name": "Indian Railway Catering and Tourism Corporation"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/af9f7c1b-33e7-bf39-78dc-8813d31295b3",
+          "name": "Catering"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Franchise India News"
+        }
+      ],
+      "datePublished": "2016-07-14T06:59:00",
+      "category": "Business"
+    },
+    {
+      "name": "Discontinuing the rail budget can be a first step for boosting autonomy of Indian Railways",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=eMe_fg6ljMFXCBMBZ8Oib4-4COt80yhOBgS60M1pz_w&v=1&r=http%3a%2f%2fblogs.timesofindia.indiatimes.com%2fminorityview%2fdiscontinuing-the-rail-budget-can-be-a-first-step-for-boosting-autonomy-of-indian-railways%2f&p=DevEx,5025.1",
+      "description": "The recommendation made by the railway minister Suresh Prabhu to the finance minister Arun Jaitley that the 92 year old practice of presenting a separate railway budget be ended by incorporating the railway budget in the general budget of the central ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/89016520-f581-ffb5-424d-1d9f69ae3905",
+          "name": "Boosting"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/7804fb2e-ea6c-f934-6dc5-c5bc671e2ba2",
+          "name": "The Times of India"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Times of India Blogs"
+        }
+      ],
+      "datePublished": "2016-07-13T10:42:00",
+      "category": "Business"
+    },
+    {
+      "name": "Auto Express From Indian Railway Aims To Reduce Delivery Times Of Cars",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=MSIasxP3Ckgy4e0a_QmQtt8cOgQGUfFhRXEqedI2GDE&v=1&r=http%3a%2f%2fwww.gaadi.com%2fnews%2fauto-express-from-indian-railway-aims-to-reduce-delivery-times-of-cars-102483&p=DevEx,5070.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.076E5D4B38732D5EC378E483FC4B0326&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Indian Railways is hoping to expand its revenue with some help from the automobile industry. The railway department on Tuesday, July 12, 2016, launched an Auto Express from Gurgaon, Haryana to Nidvanda, Karnataka, which will speed up the deliveries of cars.",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/43c62816-2729-cc70-d276-3dcbe696a62e",
+          "name": "Delivery"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/d44502be-73b7-eea1-9b32-5d06338000eb",
+          "name": "Auto Express"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/bd0682db-7d36-1126-466f-e79da4e7ccac",
+          "name": "Reduce"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "GAADI"
+        }
+      ],
+      "datePublished": "2016-07-13",
+      "clusteredArticles": [
+        {
+          "name": "Indian Railways to run Auto Car freight train to augment revenue",
+          "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=vZKm93Qv_5gf_c_Vv6S6cnjyllGW-olIHC4UcKDn4y4&v=1&r=http%3a%2f%2fwww.indiablooms.com%2fibns_new%2ffinance-details%2f5044%2findian-railways-to-run-auto-car-freight-train-to-augment-revenue.html&p=DevEx,5071.1",
+          "description": "New Delhi, Jul 13 (IBNS): Railway Minister Suresh Prabhu inaugurated the Auto Car freight train service between Gurgaon (Haryana) and Nidvanda (Karnataka) on Tuesday through video conferencing from New Delhi. The minister said that the auto industry, which ...",
+          "about": [
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/e539675d-d68e-4978-0df9-9780ce50f4ee",
+              "name": "Augment"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "India Blooms"
+            }
+          ],
+          "datePublished": "2016-07-13T10:00:00",
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "name": "Railway turns up heat on offenders misusing e-ticket platform",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=4Y-nyiBNhZNxBuILjJrt_U8Xa9RhbTl11w-JwsXtgEg&v=1&r=http%3a%2f%2fwww.thehindu.com%2fnews%2fnational%2fother-states%2frailway-turns-up-heat-on-offenders-misusing-eticket-platform%2farticle8863531.ece&p=DevEx,5029.1",
+      "description": "Chief Security Officer Mr. Pathak said when Indian Railways decided that agents could start purchasing Tatkal tickets 30 minutes after log-in time of general users, fake ID were started to be created. Now, Indian Railways allow purchase of only six tickets ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/614191a8-c18b-7ec0-bc12-068bc59c2aae",
+          "name": "Electronic ticket"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/43d669a0-5d2e-77b6-43d0-73fe3f147880",
+          "name": "Ticket platform"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Hindu"
+        }
+      ],
+      "datePublished": "2016-07-18T03:16:00"
+    },
+    {
+      "name": "Railway coach went missing at Chennai Central",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=NeEPK82rltUoa2pxwAXtgnHKu7L3vXp4x5qOtlrYrbA&v=1&r=http%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fchennai%2fRailway-coach-went-missing-at-Chennai-Central%2farticleshow%2f53258321.cms&p=DevEx,5031.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.5A4F5F5F431EDEB9A1974CECE24A7D91&pid=News",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "description": "Chennai: Sunday was yet another day where Southern Railway's poor passenger-friendliness was in full display in two separate incidents at Chennai Central and on the Chennai Beach-Velachery MRTS section. At Central, Mangalore Express started two hours later ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/7804fb2e-ea6c-f934-6dc5-c5bc671e2ba2",
+          "name": "The Times of India"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Times of India"
+        }
+      ],
+      "datePublished": "2016-07-18T03:18:00",
+      "category": "Business"
+    },
+    {
+      "name": "IRCTC to convert old coaches of Palace on Wheels into theme-based eateries",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=0HWhUo7QTO0ntqnaOecNyUYPUOY7iikdoFpPwTh5zHY&v=1&r=http%3a%2f%2findiatoday.intoday.in%2fstory%2findian-railways-irctc-palace-on-wheels-theme-based-restaurants%2f1%2f717205.html&p=DevEx,5033.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.4AB3F72CE88D2391EA53EFABCA0B70AD&pid=News",
+          "width": 647,
+          "height": 404
+        }
+      },
+      "description": "The Indian Railways want its catering and tourism PSU-IRCTC to convert the old coaches of Palace on Wheels into theme-based restaurants offering all delicacies to railway buffs. To add to it, these restaurants will be placed strategically at railway ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/0cda4c14-dc45-ffcd-58b5-97ef884b77d2",
+          "name": "The Today Show"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/2cf0a779-1117-682b-f9a3-f326a85585fe",
+          "name": "Theme"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/1f3e5de2-0ece-dc23-fcae-94b4b9446ee6",
+          "name": "Indian Railway Catering and Tourism Corporation"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "India Today"
+        }
+      ],
+      "datePublished": "2016-07-18T04:32:00",
+      "category": "India"
+    },
+    {
+      "name": "New train of thought to revive ring rail in Delhi",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=rq38PqHcIrM0zx_XHd70uQBj8tORK2znZKgfyDdBKZU&v=1&r=http%3a%2f%2findiatoday.intoday.in%2fstory%2fring-railway-delhi-indian-railways%2f1%2f717203.html&p=DevEx,5035.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.CCE189BCFB6637850F4280ABBCD1648E&pid=News",
+          "width": 647,
+          "height": 404
+        }
+      },
+      "description": "Once the goods trains are removed, the railways will be able to run passenger trains at the frequency of 10 to 12 minutes. Officials said the Indian Railway PSUs - Indian Railway Station Development Corporation (IRSDC) and Rail Land Development Authority ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/0cda4c14-dc45-ffcd-58b5-97ef884b77d2",
+          "name": "The Today Show"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/275e8ab8-7bd0-4633-9c89-0133be92e587",
+          "name": "Delhi"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "India Today"
+        }
+      ],
+      "datePublished": "2016-07-18T04:02:00"
+    },
+    {
+      "name": "Harjeet Kumar Jaggi takes over as Eastern Railway General Manager",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=AicMSGkGsvB4s5B8u76EdrUfGCFvtgX0VEenQuJ3y_U&v=1&r=http%3a%2f%2findianexpress.com%2farticle%2findia%2findia-news-india%2fharjeet-kumar-jaggi-takes-over-as-eastern-railway-general-manager-2920480%2f&p=DevEx,5037.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.0EA6DF7FC1B2921B97692F88C14C474F&pid=News",
+          "width": 480,
+          "height": 267
+        }
+      },
+      "description": "in addition to being the GM of the Northeast Frontier Railways. An officer from the Indian Railways Service of Civil Engineering (IRSE) 1978 batch, he graduated from the Delhi College of Engineering in 1978. Prior to his assignment as General Manager ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/a421ce76-f8c3-593d-fc18-f85f94bd4f95",
+          "name": "Eastern Railway zone"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Indian Express"
+        }
+      ],
+      "datePublished": "2016-07-17T22:32:00",
+      "category": "Business"
+    },
+    {
+      "name": "Tracking tickets, delivering food to bring back romance of rail journeys",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=aJQoOwJQU7RWbAWk2k-6mQaUgOrDWWtz20_64h7CJ5E&v=1&r=http%3a%2f%2ftimesofindia.indiatimes.com%2ftrend-tracking%2fIndian-railways-startups-trains%2farticleshow%2f53243672.cms&p=DevEx,5039.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.3DA031988CEA55E1459FB38977630330&pid=News",
+          "width": 400,
+          "height": 280
+        }
+      },
+      "description": "More than 22 million travelers use Indian Railways' 1,15,000km network every day, crossing the country to get to work, to get home, to reach family, and to take holidays. It's one of the largest railway networks in the world but it's probably also one of ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/7804fb2e-ea6c-f934-6dc5-c5bc671e2ba2",
+          "name": "The Times of India"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Times of India"
+        }
+      ],
+      "datePublished": "2016-07-17T09:19:00",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "name": "Railway to unveil vintage hotels on ‘Palace on Wheel’ coaches",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=rtwetwzMkK1gE6Wt85bA5cWhwz0LnWPZJOmDt9ycziM&v=1&r=http%3a%2f%2findianexpress.com%2farticle%2findia%2findia-news-india%2frailway-to-unveil-vintage-hotels-on-palace-on-wheel-coaches-2918965%2f&p=DevEx,5078.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.B42024992A153ACFF20CA1412E1B3854&pid=News",
+          "width": 700,
+          "height": 389
+        }
+      },
+      "description": "“We have sent the vintage hotel proposal to the Indian Railway Catering and Tourism Corporation (IRCTC) for consideration. Each vintage hotel will have two to three coaches and would cost an estimated Rs 16 crore,” a senior Railway Ministry official sai",
+      "mentions": [
+        {
+          "name": "Wheel"
+        },
+        {
+          "name": "Vintage"
+        },
+        {
+          "name": "The Indian Express"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Indian Express"
+        }
+      ],
+      "datePublished": "2016-07-17T04:09:00",
+      "category": "LifeStyle",
+      "clusteredArticles": [
+        {
+          "name": "Railways to unveil vintage hotels on 'Palace on Wheels' coaches",
+          "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=-4hz-EYBwPph31gQ9-QcZNYp2IFHsO6U7hwA3e4lAWQ&v=1&r=http%3a%2f%2feconomictimes.indiatimes.com%2findustry%2ftransportation%2frailways%2frailways-to-unveil-vintage-hotels-on-palace-on-wheels-coaches%2farticleshow%2f53247302.cms&p=DevEx,5080.1",
+          "description": "\"We have sent the vintage hotel proposal to the Indian Railway Catering and Tourism Corporation (IRCTC) for consideration. Each vintage hotel will have two to three coaches and would cost an estimated Rs 16 crore,\" a senior Railway Ministry official said.",
+          "about": [
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/c08bc82b-23a2-4b4e-ab95-680013c85b54",
+              "name": "Rail transport"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "Economic Times"
+            }
+          ],
+          "datePublished": "2016-07-17T11:36:00",
+          "category": "LifeStyle"
+        }
+      ]
+    },
+    {
+      "name": "Indian luxury train coaches could turn vintage restaurants",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=IjT2F50wGBinzt6M0fFRieEkuHKMZBLU12NOrZuD47o&v=1&r=http%3a%2f%2fwww.ibtimes.co.in%2findian-luxury-train-coaches-could-turn-vintage-restaurants-686966&p=DevEx,5082.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.76F6550C1A3028AC32BE08461DD94FBC&pid=News",
+          "width": 677,
+          "height": 450
+        }
+      },
+      "description": "With an aim to let the passengers experience the old heritage while tapping into potential revenues, Indian Railway's heritage wing has proposed to turn the original coaches of India's luxury train into vintage hotels and restaurants. \"We have sent the ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+          "name": "India"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/aa392ee5-e4ae-778d-ac83-7ad2b56ec7e4",
+          "name": "Vintage"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/17ad98fe-e9b0-e298-d597-a747bbedbab4",
+          "name": "Luxury trains"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "International Business Times"
+        }
+      ],
+      "datePublished": "2016-07-17T12:44:00",
+      "category": "India",
+      "clusteredArticles": [
+        {
+          "name": "Vintage hotels in 'Palace on Wheels' coaches soon!",
+          "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=2e7D096M59Bl-gf7ZzGoUXGdh7hLW_BLPaSr8p2aZ_U&v=1&r=http%3a%2f%2fwww.rediff.com%2fbusiness%2freport%2fvintage-hotels-in-palace-on-wheels-coaches-soon%2f20160717.htm&p=DevEx,5083.1",
+          "description": "\"We have sent the vintage hotel proposal to the Indian Railway Catering and Tourism Corporation (IRCTC) for consideration. Each vintage hotel will have two to three coaches and would cost an estimated Rs 16 crore,\" a senior Railway Ministry official said.",
+          "about": [
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/aa392ee5-e4ae-778d-ac83-7ad2b56ec7e4",
+              "name": "Vintage"
+            },
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/ffe4cf67-a709-b85d-d658-d0d446e4d49d",
+              "name": "Rediff.com"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "Rediff India Abroad"
+            }
+          ],
+          "datePublished": "2016-07-17T10:05:00",
+          "category": "LifeStyle"
+        }
+      ]
+    },
+    {
+      "name": "PM to bring railways up to speed",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=0brYTg4xsakn7B3wSWZbHKthrr5FAKB50A3Jw5tOOoU&v=1&r=http%3a%2f%2fwww.newindianexpress.com%2fthesundaystandard%2fPM-to-bring-railways-up-to-speed%2f2016%2f07%2f17%2farticle3532716.ece&p=DevEx,5045.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.C68D48C1352D9754CA1459AC40AE6BBA&pid=News",
+          "width": 460,
+          "height": 286
+        }
+      },
+      "description": "NEW DELHI: Concerned over the slow pace of progress of critical rail infrastructure projects and policy changes, Prime Minister Narendra Modi will chair a review meeting on July 26 to lay a new track. The PM had expressed his unhappiness over certain ...",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The New Indian Express"
+        }
+      ],
+      "datePublished": "2016-07-17T06:47:00",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "name": "Rail passengers can now get a taste of Army rations",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=wCKNN0Yw42xh-a6fyo_ggxGm5ZZE7IdFElpPk81aJZQ&v=1&r=http%3a%2f%2fwww.thehindu.com%2fnews%2fcities%2fchennai%2frail-passengers-can-now-get-a-taste-of-army-rations%2farticle8863965.ece&p=DevEx,5047.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.AF0F57DD18D2E06D66631940D4AC2500&pid=News",
+          "width": 636,
+          "height": 502
+        }
+      },
+      "description": "The Indian Railway Catering and Tourism Corporation (IRCTC) on Thursday launched a food kiosk to sell ready-to-eat products made by the Defence Food Research Laboratory (DFRL) that comes under the Defence Research and Development Organisation (DRDO).",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/801a768e-b77c-04be-b6fb-136cf7f956e5",
+          "name": "Rail"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/c3a70dc2-c818-b216-9509-0a89c93806b8",
+          "name": "Taste"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Hindu"
+        }
+      ],
+      "datePublished": "2016-07-18T02:07:00",
+      "category": "LifeStyle"
+    },
+    {
+      "name": "Indian Railways Launches ‘Auto Express’ For Faster Delivery Of Automobiles",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=eVKy1Iz9O9UbaTcRahWe5Aa2kn4V1o4OrDgtKQZX9g4&v=1&r=http%3a%2f%2fwww.drivespark.com%2foff-beat%2findian-railways-launches-auto-express-a-car-freight-train-015793.html&p=DevEx,5049.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.DE97E2496E76CF6B4FE893EA361B1BD5&pid=News",
+          "width": 600,
+          "height": 450
+        }
+      },
+      "description": "Indian Railways has launched the Auto Express for faster transport and delivery of automobiles. The train will operate between Gurgaon and Nidvanda (near Bangalore). This freight train will be in the time-tabled format which will ensure timely delivery of ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/eea5a113-6354-c784-d386-e6245314128d",
+          "name": "Faster"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/d44502be-73b7-eea1-9b32-5d06338000eb",
+          "name": "Auto Express"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/3a8bac98-4b00-42a8-143d-2df973c9b3f8",
+          "name": "Indian Railways"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "drivespark.com"
+        }
+      ],
+      "datePublished": "2016-07-14T11:59:00"
+    },
+    {
+      "name": "Indian railways launched Auto Express for faster delivery of automobiles",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=IJxMYNFAhWTJcgclvL-pDNRGmw7mK9T7y0nZHuGXL_A&v=1&r=http%3a%2f%2fauto.economictimes.indiatimes.com%2fnews%2findustry%2findian-railways-launched-auto-express-for-faster-delivery-of-automobiles%2f53179167&p=DevEx,5051.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.7EE03C391A613CBADC29143F728AC608&pid=News",
+          "width": 195,
+          "height": 124
+        }
+      },
+      "description": "NEW DELHI: Targeting 25 per cent rail share in automobile traffic, railways on Tuesday launched time-tabled Auto Express from Gurgaon to Nidvanda to ensure faster delivery of cargo. \"Like our ever-growing population, auto population is also increasing on a ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/d44502be-73b7-eea1-9b32-5d06338000eb",
+          "name": "Auto Express"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/3a8bac98-4b00-42a8-143d-2df973c9b3f8",
+          "name": "Indian Railways"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "ET Auto.com"
+        }
+      ],
+      "datePublished": "2016-07-12T16:46:00",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "name": "Indian Railways mulling 'pay and name a train' option to boost revenue",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=RrqNYIcfgYaZ_S-q-46K3ueiVs5CI9tBYwDpAPaopRw&v=1&r=http%3a%2f%2fwww.newindianexpress.com%2fnation%2fIndian-Railways-mulling-pay-and-name-a-train-option-to-boost-revenue%2f2016%2f07%2f13%2farticle3527626.ece&p=DevEx,5053.1",
+      "description": "NEW DELHI: Looking to improve its financial health from unconventional sources, Indian Railways is exploring options to allow corporate or individuals to name passenger trains after paying a fat fees. Railway Board is evaluating the money that it will ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/cc6adbe1-d871-c1c0-dc8d-c59eee2d09d6",
+          "name": "Train"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/2d9e5445-0e5e-5269-9795-b287f8be11ce",
+          "name": "Revenue"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The New Indian Express"
+        }
+      ],
+      "datePublished": "2016-07-13T17:56:00"
+    },
+    {
+      "name": "Why we don’t need a railway budget",
+      "url": "http://www.bing.com/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=gSVkpRCsyMFqjqt8HvfPfxMkh_jyTPE9tSCrv54cCqk&v=1&r=http%3a%2f%2fwww.livemint.com%2fPolitics%2fp84CBbyxCW5AxFvyUBFqjL%2fWhy-we-dont-need-a-railway-budget.html&p=DevEx,5055.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.E5D8FC3048970FE15EC4340E1EAE5714&pid=News",
+          "width": 621,
+          "height": 414
+        }
+      },
+      "description": "New Delhi: Railway minister Suresh Prabhu has written a letter to finance minister Arun Jaitley, seeking to scrap the 92-year-old practice of having a separate budget for Indian Railways. According to a Press Trust of India report, Prabhu has argued that ...",
+      "mentions": [
+        {
+          "name": "Railway Budget"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "India"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Live Mint"
+        }
+      ],
+      "datePublished": "2016-07-15T07:10:00",
+      "category": "Business"
+    },
+      {
+      "name": "The Indian Railways Managed To Lose A 120 Ton Train Engine. Now They're Desperately Hunting For It Across India!",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=A_DKHeSl4S_ZGpL1oj2sSho4Pznq58OHGP-5uOvC14Q&v=1&r=http%3a%2f%2fwww.indiatimes.com%2fnews%2findia%2fthe-indian-railways-managed-to-lose-a-120-ton-train-engine-now-they-re-desperately-hunting-for-it-across-india-258677.html&p=DevEx,5010.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.86A8DDBFC51E8030B2F7597E12A4EF60&pid=News",
+          "width": 700,
+          "height": 508
+        }
+      },
+      "description": "The Indian Railways has somehow managed to lose a 120 ton train locomotive engine. It has reportedly been missing for a month, after being deployed East Coast railways (Bhubneshwar). The loco was supposed to reach the the Tughlakabad shed by June 15 - a ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/d08571d9-8cc4-df38-36b8-2e6fcb2d06c3",
+          "name": "The INDIAN"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+          "name": "India"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "IndiaTimes"
+        }
+      ],
+      "datePublished": "2016-07-20T14:18:00"
+    },
+    {
+      "name": "Bizarre! Indian Railways' electric locomotive goes missing",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=vBzIdP4wMBoD0Yo4ePfxocC2OB967cb4T_M4rXbG7fQ&v=1&r=http%3a%2f%2fzeenews.india.com%2fnews%2findia%2fbizarre-indian-railways-electric-locomotive-goes-missing_1908947.html&p=DevEx,5060.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.D74E26B38F5B3B293711A9F1D01C4D82&pid=News",
+          "width": 700,
+          "height": 466
+        }
+      },
+      "description": "New Delhi: The Indian Railways has launched a big hunt to trace an electric loco of the Tughlakabad shed that is reported missing since last month. Reports said that engine number 23384 was supposed to reach its home shed – Tughlakabad near Delhi – on ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/792dd365-4ae3-f9d6-a85e-4d7cca1c5153",
+          "name": "Zee News"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/0d16b767-71fb-fd94-c9a0-ed9043838442",
+          "name": "Electric locomotive"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Zee News"
+        }
+      ],
+      "datePublished": "2016-07-19T10:28:00",
+      "clusteredArticles": [
+        {
+          "name": "Railways launches massive hunt for a missing diesel locomotive",
+          "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=iYoiaBkMx_-MDUyEDkr3k8g07EmCYFctVmYoo_Ip638&v=1&r=http%3a%2f%2fwww.newindianexpress.com%2fnation%2fRailways-launches-massive-hunt-for-a-missing-diesel-locomotive%2f2016%2f07%2f19%2farticle3537262.ece&p=DevEx,5061.1",
+          "description": "NEW DELHI: In a bizarre incident, Indian Railways launched a massive hunt for a 120 tonne electric locomotive of the Tughlakabad shed which went missing for almost a month as its whereabouts were not known to anyone. Electric engine was on duty in the east ...",
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "The New Indian Express"
+            }
+          ],
+          "datePublished": "2016-07-20T15:28:00"
+        },
+        {
+          "name": "When The Railways Misplaced A 120-Ton Railway Engine + 5 Other Interesting Reads From Wednesday",
+          "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=JDtOmwHTf0UpX5gwhzi7up1lxAx4Jq6aOlXtnAYeBxA&v=1&r=http%3a%2f%2fwww.indiatimes.com%2fnews%2findia%2fwhen-the-railways-misplaced-a-120-ton-railway-engine-5-other-interesting-reads-from-wednesday-258697.html&p=DevEx,5062.1",
+          "description": "The Indian Railways has somehow managed to lose a 120 ton train locomotive engine. It has reportedly been missing for a month, after being deployed East Coast railways (Bhubneshwar). The loco was supposed to reach the the Tughlakabad shed by June 15 - a ...",
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "IndiaTimes"
+            }
+          ],
+          "datePublished": "2016-07-20T15:03:00",
+          "category": "LifeStyle"
+        }
+      ]
+    },
+    {
+      "name": "Indian Railways to install solar panels in all railway buildings",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=VlQiBcfNpjojxGsu866vCsPvXa522-sNjLztVmwt_iU&v=1&r=http%3a%2f%2findianexpress.com%2farticle%2findia%2findia-news-india%2findian-railways-to-install-solar-panels-in-all-railway-buildings-2920748%2f&p=DevEx,5014.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.34AB978D507A92F93841555785C1213F&pid=News",
+          "width": 700,
+          "height": 389
+        }
+      },
+      "description": "Union Railway Minister Suresh Prabhu has said that in the near future, solar panels would be installed in all railway buildings across the nation. The Minister made this announcement on Sunday when he laid the foundation stone of one Megawatt solar power ...",
+      "mentions": [
+        {
+          "name": "Don Det – Don Khon narrow gauge railway"
+        },
+        {
+          "name": "Solar panel"
+        },
+        {
+          "name": "The Indian Express"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Indian Express"
+        }
+      ],
+      "datePublished": "2016-07-18T05:10:00",
+      "category": "World"
+    },
+    {
+      "name": "Indian Railways rolls out modern unreserved coach with latest amenities: Check out features",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=d2cp7neUv4E7tvnhiJxsntky1OJAvq7ATOHFgDB93gs&v=1&r=http%3a%2f%2fwww.financialexpress.com%2feconomy%2fdeen-dayalu-indian-railways-rolls-out-modern-unreserved-coach-with-latest-amenities-check-out-features%2f322415%2f&p=DevEx,5066.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.476F66CC99703344716C126B5C391737&pid=News",
+          "width": 660,
+          "height": 440
+        }
+      },
+      "description": "To improve quality of travelling in general class, Railways today rolled out its first modern unreserved coach ‘Deen Dayalu’ with facilities like potable drinking water, mobile charging points and bio-toilets among others to be used in mail and express ...",
+      "mentions": [
+        {
+          "name": "Indian Railways"
+        },
+        {
+          "name": "Amenity"
+        },
+        {
+          "name": "Economy"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Financial Express"
+        }
+      ],
+      "datePublished": "2016-07-19T16:17:00",
+      "category": "LifeStyle",
+      "clusteredArticles": [
+        {
+          "name": "Railways to introduce potable water facility in new coaches",
+          "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=T6NNlKBGfU3bTl6xP8wf9735YmiR8Ko1skXVxdUZd68&v=1&r=http%3a%2f%2fwww.livemint.com%2fPolitics%2f1PyJVMCShmrFp4r7g0ZAdK%2fRailways-to-introduce-potable-water-facility-in-new-coaches.html&p=DevEx,5068.1",
+          "description": "New Delhi: Indian Railways will fit the newly manufactured Deen Dayalu train coaches with water filtration systems to provide potable water for commuters. Every coach will have two filters fitted at the front and rear of the coach so that passengers don ...",
+          "about": [
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/f8e5515f-1953-89bd-6e2f-f5acec43b496",
+              "name": "Telecommunications facility"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "Live Mint"
+            }
+          ],
+          "datePublished": "2016-07-19T19:24:00",
+          "category": "LifeStyle"
+        }
+      ]
+    },
+    {
+      "name": "Indian Railways to turn luxury coaches into vintage restaurants",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=4tJluWmBoyl3brTPzzlFkFAmzT-zos_huIXcLHeV6-w&v=1&r=http%3a%2f%2fwww.businesstoday.in%2fsectors%2finfra%2findian-railways-to-turn-luxury-coaches-into-vintage-restaurants%2fstory%2f235128.html&p=DevEx,5018.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.05EB787EBC3A2A6BE20993DD7C5BB187&pid=News",
+          "width": 660,
+          "height": 450
+        }
+      },
+      "description": "For those who cannot afford a ride on the luxurious Palace of Wheels, here's an opportunity to unwind and enjoy the royal meals in thematic vintage hotels to be constructed in these coaches. The Indian Railways want its catering and tourism PSU - IRCTC to ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/3a8bac98-4b00-42a8-143d-2df973c9b3f8",
+          "name": "Indian Railways"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/aa392ee5-e4ae-778d-ac83-7ad2b56ec7e4",
+          "name": "Vintage"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "businesstoday.in"
+        }
+      ],
+      "datePublished": "2016-07-18T03:50:00",
+      "category": "India"
+    },
+    {
+      "name": "Indian Railways Modernization: Battery Operated Cars For Disabled & Elderly; TRI NETRA To Avoid Train Accidents",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=FMFEg7SYOMcyczOON5qk9C8vTFLtyV4eJT9BBgR-Oew&v=1&r=http%3a%2f%2ftrak.in%2ftags%2fbusiness%2f2016%2f07%2f11%2findian-railways-boc-disabled-elderly-tri-netra-train-accidents%2f&p=DevEx,5020.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.15B487750282F1446DF5A6C42ABB5F97&pid=News",
+          "width": 700,
+          "height": 324
+        }
+      },
+      "description": "The Indian Railways seems to be gobbling down some news space as it brings out new reforms. The first one is: It has decided to introduce Battery operated cars (BoC) to make it convenient for disabled, ailing and elderly citizens in major railway stations.",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/3a8bac98-4b00-42a8-143d-2df973c9b3f8",
+          "name": "Indian Railways"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/993e5ea5-6630-9803-bc99-66416e09d80d",
+          "name": "Train"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/559e841e-a914-4521-dc45-e0f0f44fe1d3",
+          "name": "DRDO NETRA"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Trak.in"
+        }
+      ],
+      "datePublished": "2016-07-12T10:49:00",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "name": "Indian Railways' 'Auto Express' to Speed Up Automobile Deliveries",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=f0cwjQ7y-D89eTtdUD5kTzrCbiBHQEi9V6fddiMpp5I&v=1&r=http%3a%2f%2fauto.ndtv.com%2fnews%2findian-railways-auto-express-to-speed-up-automobile-deliveries-1431264&p=DevEx,5022.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.66D49DA5A35FA7A1F8CAD0377F408CBB&pid=News",
+          "width": 700,
+          "height": 431
+        }
+      },
+      "description": "Indian Railways (IR) is aiming at 25% share in automobile freight traffic Auto Express will ferry cargo from Gurgaon to Nidvanda In April, IR had announced India's first rail auto hub in Walajabad In an effort to target 25 per cent share in automobile ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/d44502be-73b7-eea1-9b32-5d06338000eb",
+          "name": "Auto Express"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/f2f96742-884d-058b-1cd7-c498eda45bee",
+          "name": "Speed Up"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/3a8bac98-4b00-42a8-143d-2df973c9b3f8",
+          "name": "Indian Railways"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "NDTV"
+        }
+      ],
+      "datePublished": "2016-07-14",
+      "category": "Business"
+    },
+    {
+      "name": "IRCTC joins hands with SBI to promote rail ticketing",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=NvboVjucavykMBLfV782iZewWKMFX8gxoc_x7LvL-_Q&v=1&r=http%3a%2f%2fwww.rediff.com%2fbusiness%2freport%2firctc-joins-hands-with-sbi-to-promote-rail-ticketing%2f20160720.htm&p=DevEx,5024.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.B6BD4C6F23CCFCE6832CD4485670C29F&pid=News",
+          "width": 670,
+          "height": 447
+        }
+      },
+      "description": "The MoU was signed by IRCTC CMD A K Manocha and Arundhati Bhattacharya, CMD, SBI on July 18. Indian Railway Catering and Tourism Corporation has joined hands with the State Bank of India to chalk out a detailed plan for promotion of rail ticketing ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/1f3e5de2-0ece-dc23-fcae-94b4b9446ee6",
+          "name": "Indian Railway Catering and Tourism Corporation"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/ffe4cf67-a709-b85d-d658-d0d446e4d49d",
+          "name": "Rediff.com"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Rediff India Abroad"
+        }
+      ],
+      "datePublished": "2016-07-20T16:14:00"
+    },
+    {
+      "name": "Mumbai-Ahmedabad bullet train to be ready by 2023-24: Suresh Prabhu",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=u-itZCIxWs0d8VD8On1Pq8ElUO3-EMc7D3ZnzHLVW_E&v=1&r=http%3a%2f%2fwww.abplive.in%2findia-news%2fmumbai-ahmedabad-bullet-train-to-be-ready-by-2023-24-suresh-prabhu-384137&p=DevEx,5026.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.5E36F4FE9C422D55F899577BF5A70537&pid=News",
+          "width": 580,
+          "height": 395
+        }
+      },
+      "description": "Joint feasibility study for Mumbai-Ahmedabad high speed rail project has already been done by JICA,” Prabhu informed Parliament. “On the basis of negotiations held with government of Japan and JICA, government of India has sanctioned Mumbai-Ahmedabad ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/c3fcce53-1080-578e-be61-d6f74bc3de93",
+          "name": "Suresh Prabhakar Prabhu"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/fbbc8d69-667a-e1ff-34bf-e524be01025d",
+          "name": "Mumbai"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/f741e2c0-a401-4bcb-2d92-c364fe683513",
+          "name": "Ahmedabad"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "ABP NEWS"
+        }
+      ],
+      "datePublished": "2016-07-20T16:02:00",
+      "category": "World"
+    },
+    {
+      "name": "Railways, SBI sign MoU for promoting rail ticketing system",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=DtNru2DfDqziqN2IqhVDjQcWesms4R_eL3JUHT3R4uw&v=1&r=http%3a%2f%2ftimesofindia.indiatimes.com%2fbusiness%2findia-business%2fRailways-SBI-sign-MoU-for-promoting-rail-ticketing-system%2farticleshow%2f53303355.cms&p=DevEx,5028.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.05506DD6181FE1169CB079F4718150B0&pid=News",
+          "width": 400,
+          "height": 255
+        }
+      },
+      "description": "Read More NEW DELHI: Indian Railway Catering and Tourism Corporation (IRCTC) and State Bank of India (SBI) signed a MoU to work out a detailed plan for promotion of rail ticketing activities, including internet ticketing and unreserved ticketing system.",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/74aa8c7f-1efb-2199-d975-546c5bf8f65c",
+          "name": "State Bank of India"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/7804fb2e-ea6c-f934-6dc5-c5bc671e2ba2",
+          "name": "The Times of India"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/dd7f22bd-2f3f-5b2e-c0cb-1a822dcff23d",
+          "name": "Issue tracking system"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Times of India"
+        }
+      ],
+      "datePublished": "2016-07-20T14:19:00"
+    },
+    {
+      "name": "Mohammad Shahid, Indian hockey Olympic gold medallist, passes away",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=wGtJvOgZ3vh4visXv4tPVQ_njpNyRJwhvZngBNq-1m0&v=1&r=http%3a%2f%2fwww.firstpost.com%2fsports%2fmohammad-shahid-indian-hockey-olympic-gold-medallist-passes-away-2903918.html&p=DevEx,5076.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.B1610DC4E137FCB78C4428908DB15EA1&pid=News",
+          "width": 380,
+          "height": 285
+        }
+      },
+      "description": "\"I thank the honorable Prime Minister Shri Narendra Modi ji, Sports Minister Shri Jitendra Singh ji, Indian Railways and Railways minister Shri Suresh Prabhu ji and Uttar Pradesh Chief Minister Shri Akhilesh Yadav ji for their prompt support and assistance ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/8892f261-7f6c-f0d1-e670-ba5f087cfaf9",
+          "name": "M. Shahid"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+          "name": "India"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/f2e29832-5e5d-be6d-97f3-493565c67b4d",
+          "name": "Olympic Gold"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Firstpost"
+        }
+      ],
+      "datePublished": "2016-07-20T08:35:00",
+      "clusteredArticles": [
+        {
+          "name": "Dribbling skills made Shahid one of India’s best",
+          "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=Ege9u0b7AXSk_Uoy1geToyOMnWIsygqDKIvHu_Dcd6c&v=1&r=http%3a%2f%2fwww.thehindu.com%2fsport%2fhockey%2fhockey-legend-mohammad-shahid-dribbling-skills-made-shahid-one-of-indias-best%2farticle8875624.ece&p=DevEx,5077.1",
+          "description": "Working as a Sports Officer with Indian Railways in Varanasi, Shahid’s last few days were confined to the Intensive Care Unit at Medanta — The Medicity hospital in Gurugram after he was airlifted from his home town. On and off the pitch Shahid was a ...",
+          "about": [
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+              "name": "India"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "The Hindu"
+            }
+          ],
+          "datePublished": "2016-07-20T09:59:00"
+        }
+      ]
+    },
+    {
+      "name": "Railways to start voluntary passenger insurance scheme from September",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=T9HrSkGcss5abNV0e1EmS-8EynGrUQDHw8rrmdYiNV0&v=1&r=http%3a%2f%2fwww.newindianexpress.com%2fnation%2fRailways-to-start-voluntary-passenger-insurance-scheme-from-September%2f2016%2f07%2f20%2farticle3538957.ece&p=DevEx,5032.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.6F2EF61F950ED4131301FE0F4E4013A5&pid=News",
+          "width": 620,
+          "height": 350
+        }
+      },
+      "description": "NEW DELHI: Indian railway is likely to start voluntary passenger insurance scheme from September by charging a minimal premium of less than Rs 10 per ticket from travelers for an insurance cover of Rs 10 lakh in case of death or permanent disability caused ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/035c7db6-2243-e5ef-0444-567071b875ed",
+          "name": "Scheme"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The New Indian Express"
+        }
+      ],
+      "datePublished": "2016-07-20T16:43:00",
+      "category": "Business"
+    },
+    {
+      "name": "The Unusable Ticketing System?",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=A5kTTO5pdfyq--DXaMbWRv6KFsF4Glt7EnQuReHNdJ8&v=1&r=http%3a%2f%2fwww.thehindubusinessline.com%2fspecials%2ftechnophile%2fthe-unusable-ticketing-system%2farticle8876643.ece&p=DevEx,5034.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.ADE0C4885ED50E7A436B7C35396E5964&pid=News",
+          "width": 636,
+          "height": 378
+        }
+      },
+      "description": "The Indian Railways has been actively promoting its UTS (Unreserved Ticketing System) app lately. Primarily intended to serve passengers who patronise the suburban rail services in major metropolitan cities, the app allows users to book unreserved local ...",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Hindu Business Line"
+        }
+      ],
+      "datePublished": "2016-07-20T16:04:00",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "name": "Dog in the manger",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=PJ9WOS5XpuDaZGSmRqEIaFXNVayecQpyeqTp_ixlbEk&v=1&r=http%3a%2f%2fwww.thehindubusinessline.com%2fopinion%2feditorial%2fdog-in-the-manger%2farticle8876716.ece&p=DevEx,5036.1",
+      "description": "Indian Railways is looking to drive down its power cost through purchase agreements with independent power producers. That is a smart move. Any commercially run organisation, irrespective of whether or not it has social obligations, should seek to cut out ...",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Hindu Business Line"
+        }
+      ],
+      "datePublished": "2016-07-20T16:44:00",
+      "category": "Business"
+    },
+    {
+      "name": "IRCTC, SBI sign MoU on strengthening of rail ticketing activities",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=wDCGvhw3wU8M7eg2uE1P2GjBerZWf7lSehlYP24LAXE&v=1&r=http%3a%2f%2ftimesofindia.indiatimes.com%2fCity%2fAgra%2fIRCTC-SBI-sign-MoU-on-strengthening-of-rail-ticketing-activities%2farticleshow%2f53300621.cms&p=DevEx,5081.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.44CF8250DE22BB812332D2BE833EF2AE&pid=News",
+          "width": 400,
+          "height": 267
+        }
+      },
+      "description": "Indian Railway Catering and Tourism Corporation (IRCTC) booked more than five lakh rail e-tickets on March 1, ... Read More AGRA: Indian Railway Catering and Tourism Corporation (IRCTC) and the country's largest public sector bank, State Bank of India (SBI ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/74aa8c7f-1efb-2199-d975-546c5bf8f65c",
+          "name": "State Bank of India"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/e4624a03-1832-e912-03c0-209eba600b94",
+          "name": "Memorandum of understanding"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/1f3e5de2-0ece-dc23-fcae-94b4b9446ee6",
+          "name": "Indian Railway Catering and Tourism Corporation"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Times of India"
+        }
+      ],
+      "datePublished": "2016-07-20T11:33:00",
+      "clusteredArticles": [
+        {
+          "name": "IRCTC, SBI sign MoU on promotion of rail ticketing activities",
+          "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=q9oBtVsmc5l4HA0K4ECL38GYqbtqHXuZBnUj0ITq0Zk&v=1&r=http%3a%2f%2fwww.nyoooz.com%2fdelhi%2f546654%2firctc-sbi-sign-mou-on-promotion-of-rail-ticketing-activities&p=DevEx,5082.1",
+          "description": "New Delhi, July 20: Indian Railway Catering and Tourism Corporation (IRCTC) and the country's largest public sector bank, State Bank of India (SBI), have signed a Memorandum of Understanding (MoU) to hammer out a detailed plan for promotion of rail ...",
+          "about": [
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/275e8ab8-7bd0-4633-9c89-0133be92e587",
+              "name": "Delhi"
+            },
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/1f3e5de2-0ece-dc23-fcae-94b4b9446ee6",
+              "name": "Indian Railway Catering and Tourism Corporation"
+            },
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/74aa8c7f-1efb-2199-d975-546c5bf8f65c",
+              "name": "State Bank of India"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "nyoooz.com"
+            }
+          ],
+          "datePublished": "2016-07-20T12:40:00"
+        },
+        {
+          "name": "BHEL announces commission of 40 mw hydro power unit in West Bengal",
+          "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=Jl3tug6vtwb4h4-8euYDfYWiJ3ZOGIH0CwVbM_bT3Ls&v=1&r=http%3a%2f%2fwww.aninews.in%2fnewsdetail-M014blhm%2fMjcyNzcyTXhuWGY%2fbhel-announces-commission-of-40-mw-hydro-power-unit-in-west-bengal.html&p=DevEx,5083.1",
+          "description": "New Delhi, July 20: Indian Railway Catering and Tourism Corporation (IRCTC) and the country's largest public sector bank, State Bank of India (SBI), have signed a Memorandum of Understanding (MoU) to hammer out a detailed plan for promotion of rail ...",
+          "about": [
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/0ba4dca2-6674-7df7-ba80-c336459bea00",
+              "name": "Ani"
+            },
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/68bb2b90-0519-86c0-64d7-bb3318952b57",
+              "name": "Commission"
+            },
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/067d886f-4d7d-8889-c8c7-d54e2dbc1cb8",
+              "name": "West Bengal"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "ANI NEWS"
+            }
+          ],
+          "datePublished": "2016-07-20T13:36:00",
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "name": "New Railway coaches for the General Class called Deen Dayalu (Photos)",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=pRevMcqbmOatDF7h-HAKpcAe2Wj8D2DHj1RJRKP2IXQ&v=1&r=http%3a%2f%2fwww.rushlane.com%2findian-railways-2016-general-class-coach-12201122.html&p=DevEx,5040.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.8C5D467F29178276AD9441753E0FDCA0&pid=News",
+          "width": 700,
+          "height": 465
+        }
+      },
+      "description": "As announced in Railway Budget 2016-17 by Indian Railways, the first Deen Dayalu coaches have been successfully introduced. These modernized railway coaches for the General Class offer much better amenities, comfort as compared to older coaches.",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+          "name": "India"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Rush Lane"
+        }
+      ],
+      "datePublished": "2016-07-20T10:15:00",
+      "category": "LifeStyle"
+    },
+    {
+      "name": "New train of thought to revive ring rail in Delhi",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=rq38PqHcIrM0zx_XHd70uQBj8tORK2znZKgfyDdBKZU&v=1&r=http%3a%2f%2findiatoday.intoday.in%2fstory%2fring-railway-delhi-indian-railways%2f1%2f717203.html&p=DevEx,5042.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.CCE189BCFB6637850F4280ABBCD1648E&pid=News",
+          "width": 647,
+          "height": 404
+        }
+      },
+      "description": "Once the goods trains are removed, the railways will be able to run passenger trains at the frequency of 10 to 12 minutes. Officials said the Indian Railway PSUs - Indian Railway Station Development Corporation (IRSDC) and Rail Land Development Authority ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/0cda4c14-dc45-ffcd-58b5-97ef884b77d2",
+          "name": "The Today Show"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/275e8ab8-7bd0-4633-9c89-0133be92e587",
+          "name": "Delhi"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "India Today"
+        }
+      ],
+      "datePublished": "2016-07-18T04:02:00"
+    },
+    {
+      "name": "Harjeet Kumar Jaggi takes over as Eastern Railway General Manager",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=AicMSGkGsvB4s5B8u76EdrUfGCFvtgX0VEenQuJ3y_U&v=1&r=http%3a%2f%2findianexpress.com%2farticle%2findia%2findia-news-india%2fharjeet-kumar-jaggi-takes-over-as-eastern-railway-general-manager-2920480%2f&p=DevEx,5044.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.0EA6DF7FC1B2921B97692F88C14C474F&pid=News",
+          "width": 480,
+          "height": 267
+        }
+      },
+      "description": "in addition to being the GM of the Northeast Frontier Railways. An officer from the Indian Railways Service of Civil Engineering (IRSE) 1978 batch, he graduated from the Delhi College of Engineering in 1978. Prior to his assignment as General Manager ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/a421ce76-f8c3-593d-fc18-f85f94bd4f95",
+          "name": "Eastern Railway zone"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Indian Express"
+        }
+      ],
+      "datePublished": "2016-07-17T22:32:00",
+      "category": "Business"
+    },
+    {
+      "name": "Indian Railways train delay reduced by 30 per cent: Survey",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=VVTcjIlbaB2tUE8NTU6MaVRO9SdA24ZTJOZopjerTFU&v=1&r=http%3a%2f%2fwww.financialexpress.com%2feconomy%2findian-railways-train-delay-reduced-30-per-cent-survey%2f318954%2f&p=DevEx,5046.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.6D0B96986CDA35B8F17962FAD5C9125E&pid=News",
+          "width": 660,
+          "height": 440
+        }
+      },
+      "description": "The average delay in train services of Indian Railways has come down by nearly 30 per cent since the beginning of the year, according to a survey. Based on a comprehensive analysis done over the last six months across more than 2,500 important train ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/cc6adbe1-d871-c1c0-dc8d-c59eee2d09d6",
+          "name": "Train"
+        }
+      ],
+      "mentions": [
+        {
+          "name": "Train"
+        },
+        {
+          "name": "Burau representation"
+        },
+        {
+          "name": "Indian Railways"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Financial Express"
+        }
+      ],
+      "datePublished": "2016-07-16T18:03:00",
+      "category": "LifeStyle"
+    },
+    {
+      "name": "Indian Railways, travel agency directed to pay Rs 6,000 for charging Rs 60 extra",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=r_SpYMK8-Gq3-Ktfh6lQyemjzyvQz4dLYNvDKNvZNOU&v=1&r=http%3a%2f%2fwww.hindustantimes.com%2fpunjab%2findian-railways-travel-agency-directed-to-pay-rs-6-000-for-charging-rs-60-extra%2fstory-6hIa9dqLjKB7oVdEKFAd8I.html&p=DevEx,5048.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.87E206CF5D01A863D554282ED0B35E38&pid=News",
+          "width": 700,
+          "height": 390
+        }
+      },
+      "description": "Sunil Kapoor of Civil Lines was overcharged when he booked tickets through Rail Travellers Service Agents (RTSA) of the Indian Railways based in Ludhiana in 2007. (Representative image ) A nine-year-old legal battle with the Indian Railways in which a city ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/d98d08e1-818e-a7ba-30a5-4637a11eec3e",
+          "name": "Punjab"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/801a768e-b77c-04be-b6fb-136cf7f956e5",
+          "name": "Rail"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/4fe920fe-e4d2-6fd1-32b2-6ef5884e9027",
+          "name": "Travel agency"
+        }
+      ],
+      "mentions": [
+        {
+          "name": "Punjab"
+        },
+        {
+          "name": "Rail"
+        },
+        {
+          "name": "Travel agency"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Hindustan Times"
+        }
+      ],
+      "datePublished": "2016-07-12T09:54:00",
+      "category": "LifeStyle"
+    },
+    {
+      "name": "India has lost a talented sportsman who played with immense passion: PM Modi pays tribute to Mohammad Shahid",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=jxPiGSPduJD3ArLuN4HQRxSgaOhh23W-I8eQYvsdHKg&v=1&r=http%3a%2f%2fwww.dnaindia.com%2fsport%2freport-india-has-lost-a-talented-sportsman-who-played-with-immense-passion-pm-modi-pays-tribute-to-mohammad-shahid-2236359&p=DevEx,5092.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.151A77FBDA2C0DC492E468ECCE7F808D&pid=News",
+          "width": 640,
+          "height": 360
+        }
+      },
+      "description": "His skill and ability earned him a place in the Asian All-Star team in 1986. He also captained the Indian team during 1985 86. Later, he also served as sports officer with the Indian Railways in Varanasi.",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/8892f261-7f6c-f0d1-e670-ba5f087cfaf9",
+          "name": "M. Shahid"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+          "name": "Narendra Modi"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+          "name": "India"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Daily News and Analysis"
+        }
+      ],
+      "datePublished": "2016-07-20T09:58:00",
+      "category": "Sports",
+      "clusteredArticles": [
+        {
+          "name": "Mohammad Shahid: One of India's hockey greats of all time",
+          "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=7NeQUcKzIQERQdKqK4WUTsnTIkLqCX6e_7ROCiIkYr0&v=1&r=http%3a%2f%2fianslive.in%2findex.php%3fparam%3dnews%2fMohammad_Shahid_One_of_Indias_hockey_greats_of_all_time-518259%2fsports%2f9&p=DevEx,5093.1",
+          "description": "Later on, he became a sports officer with the Indian Railways in Varanasi. He had been admitted to SSL Hospital at Banaras Hindu University with severe stomach pain on June 29. As his condition did not improve, he was airlifted from Varanasi and admitted ...",
+          "about": [
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/8892f261-7f6c-f0d1-e670-ba5f087cfaf9",
+              "name": "M. Shahid"
+            },
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+              "name": "India"
+            },
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/5f8716a3-ba21-4df2-836e-7930ef77b53f",
+              "name": "Institute for Applied Network Security"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "IANS live"
+            }
+          ],
+          "datePublished": "2016-07-20T16:05:00",
+          "category": "Sports"
+        }
+      ]
+    },
+    {
+      "name": "Railways spent Rs 315 crore on cleanliness in 2015-16: Government",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=pGDEMUOfwWDFfAZpbgUk2J7v379e8zbgzHG_9RzAxtM&v=1&r=http%3a%2f%2feconomictimes.indiatimes.com%2findustry%2ftransportation%2frailways%2frailways-spent-rs-315-crore-on-cleanliness-in-2015-16-government%2farticleshow%2f53304185.cms&p=DevEx,5052.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.EBD2B7A7AF114D37D0114DCB86DA5B4C&pid=News",
+          "width": 310,
+          "height": 233
+        }
+      },
+      "description": "NEW DELHI: Railways has spent about Rs 315 crore on cleanliness and sanitation at all stations, including platforms, circulating area, waiting rooms, toilets and tracks within station limit, during 2015-16, Lok Sabha was informed today. Under the Swachh ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/5634d914-4190-dd0b-fa80-715c2ac46335",
+          "name": "Government"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/c08bc82b-23a2-4b4e-ab95-680013c85b54",
+          "name": "Rail transport"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/c8dfebad-4209-b5c5-806d-7d34444dc344",
+          "name": "The Economic Times"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Economic Times"
+        }
+      ],
+      "datePublished": "2016-07-20T17:36:00"
+    },
+    {
+      "name": "Indian Railways going back to IRCTC for catering services",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=P2cQNnBFkYoU6dfJWk0AEkgk24OwZADIqmt6W11mrao&v=1&r=http%3a%2f%2fnews.franchiseindia.com%2frestaurant%2fIndian-Railways-going-back-to-IRCTC-for-catering-services.n13378&p=DevEx,5054.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.CDA1A7B87A088168BA0212845DEF7177&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "In a boomerang shift, Indian Railways has gone back to Indian Railway Catering and Tourism Corporation (IRCTC) to handle the catering business in trains. In the recent development, IRCTC will empanel firms which will supply ‘Ready To Eat’ (RTE) meals ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/3a8bac98-4b00-42a8-143d-2df973c9b3f8",
+          "name": "Indian Railways"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/1f3e5de2-0ece-dc23-fcae-94b4b9446ee6",
+          "name": "Indian Railway Catering and Tourism Corporation"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/af9f7c1b-33e7-bf39-78dc-8813d31295b3",
+          "name": "Catering"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Franchise India News"
+        }
+      ],
+      "datePublished": "2016-07-14T06:59:00",
+      "category": "Business"
+    },
+    {
+      "name": "Indian luxury train coaches could turn vintage restaurants",
+      "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=IjT2F50wGBinzt6M0fFRieEkuHKMZBLU12NOrZuD47o&v=1&r=http%3a%2f%2fwww.ibtimes.co.in%2findian-luxury-train-coaches-could-turn-vintage-restaurants-686966&p=DevEx,5097.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.76F6550C1A3028AC32BE08461DD94FBC&pid=News",
+          "width": 677,
+          "height": 450
+        }
+      },
+      "description": "With an aim to let the passengers experience the old heritage while tapping into potential revenues, Indian Railway's heritage wing has proposed to turn the original coaches of India's luxury train into vintage hotels and restaurants. \"We have sent the ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+          "name": "India"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/aa392ee5-e4ae-778d-ac83-7ad2b56ec7e4",
+          "name": "Vintage"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/17ad98fe-e9b0-e298-d597-a747bbedbab4",
+          "name": "Luxury trains"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "International Business Times"
+        }
+      ],
+      "datePublished": "2016-07-17T17:54:00",
+      "category": "India",
+      "clusteredArticles": [
+        {
+          "name": "Indian luxury trains could turn into vintage restaurants",
+          "url": "http://www.bing.com/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=LluH3UrpvwLK_5hCDgqGWXQ1B0Nrzea686jP6mAuMC0&v=1&r=http%3a%2f%2fwww.hospitalitybizindia.com%2fdetailNews.aspx%3faid%3d24787%26sid%3d1&p=DevEx,5098.1",
+          "description": "As per a report in IBT, India, luxury travel may get a fillip if the Railway's recent proposal to turn old coaches of Palace on Wheels into 'thematic vintage hotels' becomes a reality. With an aim to let the passengers experience the old heritage while ...",
+          "about": [
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+              "name": "India"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "Hospitality Biz India"
+            }
+          ],
+          "datePublished": "2016-07-18T07:48:00",
+          "category": "India"
+        }
+      ]
+    }
+  ]
+} 
+  

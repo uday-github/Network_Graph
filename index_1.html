@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<script src="http://d3js.org/d3.v2.min.js?2.9.3"></script>
+<script src="js/jquery-2.1.4.min.js"></script>
+<script src="http://code.jquery.com/ui/1.11.1/jquery-ui.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+<script src="js/handlebars-v3.0.3.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/jquery.tipsy.js"></script>
+
+<link href="css/tipsy.css" rel="stylesheet" type="text/css" />
+
+<style>
+
+.link {
+  stroke: #aaa;
+}
+
+.node text {
+stroke:#333;
+cursos:pointer;
+}
+
+.node circle{
+stroke:#fff;
+stroke-width:3px;
+fill:#555;
+}
+
+</style>
+
+
+<body>
+
+<div id="modal-container">
+</div>
+
+
+<script id="modal-template" type="text/x-handlebars-template">
+  <div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h3 id="myModalLabel">{{name}}</h3>
+    </div>
+    <div class="modal-body">
+      <ul>
+        {{#each articles}}
+          <li> <a href = "{{url}}"> {{name}} </a></li>
+        {{/each}}
+      </ul>
+    </div>
+    <!--
+    <div class="modal-footer">
+        <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+    </div> -->
+  </div>
+
+</script>  
+
+<script>
+
+var source  = $("#modal-template").html();
+var modal_template = Handlebars.compile(source);
+
+var width = 960,
+    height = 700
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+var force = d3.layout.force()
+    .gravity(.05)
+    .linkDistance(150)
+    .charge(-200)
+    .size([width, height]);
+
+d3.json("data_1.json", function(json) {
+  force
+      .nodes(json.nodes)
+      .links(json.links)
+      .start();
+
+  var link = svg.selectAll(".link")
+      .data(json.links)
+    .enter().append("line")
+      .attr("class", "link")
+    .style("stroke-width", function(d) { return Math.sqrt(d.weight); });
+
+  var node = svg.selectAll(".node")
+      .data(json.nodes)
+    .enter().append("g")
+      .attr("class", "node")
+      .call(force.drag);
+
+  node.append("circle")
+      .attr("r",function(d){return d.count*3})
+      .style('fill',function(d){
+        return (d.group == 1 ? 'orange':'blue');});
+
+  node.append("text")
+      .attr("dx", 12)
+      .attr("dy", ".35em")
+      .text(function(d) { return d.name });
+
+  $('g').tipsy({ 
+        gravity: 'w', 
+        html: true, 
+        title: function() {
+          var d = this.__data__
+          return (d.group == 1 ? 'x' + d.count:d.count); 
+        }
+      });
+
+  $('g').click(function(){
+        var d = this.__data__
+        var html = modal_template(d);
+
+        $("#modal-container").html(html);
+
+        $("#myModal").modal('show');
+
+  })
+
+  force.on("tick", function() {
+    link.attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+  });
+});
+
+
+</script>
+
+</body>

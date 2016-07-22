@@ -1,0 +1,698 @@
+{
+  "nodes": [
+    {
+      "name": "ANI NEWS",
+      "count": 1,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Indian Railways to install solar panels in all railway buildings",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=_kxiOKHG9z3EJ4WckxX9TRuBvysuaXg1HWgrYxOb_ts&v=1&r=http%3a%2f%2fwww.aninews.in%2fnewsdetail-MTBVZHF3dg%2fMjcyMzc4VWRxd3Y%2findian-railways-to-install-solar-panels-in-all-railway-buildings.html&p=DevEx,5007.1"
+        }
+      ]
+    },
+    {
+      "name": "businesstoday.in",
+      "count": 2,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Indian Railways to turn luxury coaches into vintage restaurants",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=4tJluWmBoyl3brTPzzlFkFAmzT-zos_huIXcLHeV6-w&v=1&r=http%3a%2f%2fwww.businesstoday.in%2fsectors%2finfra%2findian-railways-to-turn-luxury-coaches-into-vintage-restaurants%2fstory%2f235128.html&p=DevEx,5009.1"
+        },
+        {
+          "name": "Indian Railways to turn luxury coaches into vintage restaurants",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=4tJluWmBoyl3brTPzzlFkFAmzT-zos_huIXcLHeV6-w&v=1&r=http%3a%2f%2fwww.businesstoday.in%2fsectors%2finfra%2findian-railways-to-turn-luxury-coaches-into-vintage-restaurants%2fstory%2f235128.html&p=DevEx,5018.1"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "count": 5,
+      "group": 1,
+      "articles": [
+        {
+          "name": "Indian Railways to turn luxury coaches into vintage restaurants",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=4tJluWmBoyl3brTPzzlFkFAmzT-zos_huIXcLHeV6-w&v=1&r=http%3a%2f%2fwww.businesstoday.in%2fsectors%2finfra%2findian-railways-to-turn-luxury-coaches-into-vintage-restaurants%2fstory%2f235128.html&p=DevEx,5009.1"
+        },
+        {
+          "name": "IRCTC to convert old coaches of Palace on Wheels into theme-based eateries",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=0HWhUo7QTO0ntqnaOecNyUYPUOY7iikdoFpPwTh5zHY&v=1&r=http%3a%2f%2findiatoday.intoday.in%2fstory%2findian-railways-irctc-palace-on-wheels-theme-based-restaurants%2f1%2f717205.html&p=DevEx,5033.1"
+        },
+        {
+          "name": "Indian luxury train coaches could turn vintage restaurants",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=IjT2F50wGBinzt6M0fFRieEkuHKMZBLU12NOrZuD47o&v=1&r=http%3a%2f%2fwww.ibtimes.co.in%2findian-luxury-train-coaches-could-turn-vintage-restaurants-686966&p=DevEx,5082.1"
+        },
+        {
+          "name": "Indian Railways to turn luxury coaches into vintage restaurants",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=4tJluWmBoyl3brTPzzlFkFAmzT-zos_huIXcLHeV6-w&v=1&r=http%3a%2f%2fwww.businesstoday.in%2fsectors%2finfra%2findian-railways-to-turn-luxury-coaches-into-vintage-restaurants%2fstory%2f235128.html&p=DevEx,5018.1"
+        },
+        {
+          "name": "Indian luxury train coaches could turn vintage restaurants",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=IjT2F50wGBinzt6M0fFRieEkuHKMZBLU12NOrZuD47o&v=1&r=http%3a%2f%2fwww.ibtimes.co.in%2findian-luxury-train-coaches-could-turn-vintage-restaurants-686966&p=DevEx,5097.1"
+        }
+      ]
+    },
+    {
+      "name": "NDTV",
+      "count": 2,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Indian Railways' 'Auto Express' to Speed Up Automobile Deliveries",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=f0cwjQ7y-D89eTtdUD5kTzrCbiBHQEi9V6fddiMpp5I&v=1&r=http%3a%2f%2fauto.ndtv.com%2fnews%2findian-railways-auto-express-to-speed-up-automobile-deliveries-1431264&p=DevEx,5011.1"
+        },
+        {
+          "name": "Indian Railways' 'Auto Express' to Speed Up Automobile Deliveries",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=f0cwjQ7y-D89eTtdUD5kTzrCbiBHQEi9V6fddiMpp5I&v=1&r=http%3a%2f%2fauto.ndtv.com%2fnews%2findian-railways-auto-express-to-speed-up-automobile-deliveries-1431264&p=DevEx,5022.1"
+        }
+      ]
+    },
+    {
+      "name": "Business",
+      "count": 11,
+      "group": 1,
+      "articles": [
+        {
+          "name": "Indian Railways' 'Auto Express' to Speed Up Automobile Deliveries",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=f0cwjQ7y-D89eTtdUD5kTzrCbiBHQEi9V6fddiMpp5I&v=1&r=http%3a%2f%2fauto.ndtv.com%2fnews%2findian-railways-auto-express-to-speed-up-automobile-deliveries-1431264&p=DevEx,5011.1"
+        },
+        {
+          "name": "Indian Railways going back to IRCTC for catering services",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=P2cQNnBFkYoU6dfJWk0AEkgk24OwZADIqmt6W11mrao&v=1&r=http%3a%2f%2fnews.franchiseindia.com%2frestaurant%2fIndian-Railways-going-back-to-IRCTC-for-catering-services.n13378&p=DevEx,5023.1"
+        },
+        {
+          "name": "Discontinuing the rail budget can be a first step for boosting autonomy of Indian Railways",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=eMe_fg6ljMFXCBMBZ8Oib4-4COt80yhOBgS60M1pz_w&v=1&r=http%3a%2f%2fblogs.timesofindia.indiatimes.com%2fminorityview%2fdiscontinuing-the-rail-budget-can-be-a-first-step-for-boosting-autonomy-of-indian-railways%2f&p=DevEx,5025.1"
+        },
+        {
+          "name": "Railway coach went missing at Chennai Central",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=NeEPK82rltUoa2pxwAXtgnHKu7L3vXp4x5qOtlrYrbA&v=1&r=http%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fchennai%2fRailway-coach-went-missing-at-Chennai-Central%2farticleshow%2f53258321.cms&p=DevEx,5031.1"
+        },
+        {
+          "name": "Harjeet Kumar Jaggi takes over as Eastern Railway General Manager",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=AicMSGkGsvB4s5B8u76EdrUfGCFvtgX0VEenQuJ3y_U&v=1&r=http%3a%2f%2findianexpress.com%2farticle%2findia%2findia-news-india%2fharjeet-kumar-jaggi-takes-over-as-eastern-railway-general-manager-2920480%2f&p=DevEx,5037.1"
+        },
+        {
+          "name": "Why we don\u2019t need a railway budget",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=gSVkpRCsyMFqjqt8HvfPfxMkh_jyTPE9tSCrv54cCqk&v=1&r=http%3a%2f%2fwww.livemint.com%2fPolitics%2fp84CBbyxCW5AxFvyUBFqjL%2fWhy-we-dont-need-a-railway-budget.html&p=DevEx,5055.1"
+        },
+        {
+          "name": "Indian Railways' 'Auto Express' to Speed Up Automobile Deliveries",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=f0cwjQ7y-D89eTtdUD5kTzrCbiBHQEi9V6fddiMpp5I&v=1&r=http%3a%2f%2fauto.ndtv.com%2fnews%2findian-railways-auto-express-to-speed-up-automobile-deliveries-1431264&p=DevEx,5022.1"
+        },
+        {
+          "name": "Railways to start voluntary passenger insurance scheme from September",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=T9HrSkGcss5abNV0e1EmS-8EynGrUQDHw8rrmdYiNV0&v=1&r=http%3a%2f%2fwww.newindianexpress.com%2fnation%2fRailways-to-start-voluntary-passenger-insurance-scheme-from-September%2f2016%2f07%2f20%2farticle3538957.ece&p=DevEx,5032.1"
+        },
+        {
+          "name": "Dog in the manger",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=PJ9WOS5XpuDaZGSmRqEIaFXNVayecQpyeqTp_ixlbEk&v=1&r=http%3a%2f%2fwww.thehindubusinessline.com%2fopinion%2feditorial%2fdog-in-the-manger%2farticle8876716.ece&p=DevEx,5036.1"
+        },
+        {
+          "name": "Harjeet Kumar Jaggi takes over as Eastern Railway General Manager",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=AicMSGkGsvB4s5B8u76EdrUfGCFvtgX0VEenQuJ3y_U&v=1&r=http%3a%2f%2findianexpress.com%2farticle%2findia%2findia-news-india%2fharjeet-kumar-jaggi-takes-over-as-eastern-railway-general-manager-2920480%2f&p=DevEx,5044.1"
+        },
+        {
+          "name": "Indian Railways going back to IRCTC for catering services",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=P2cQNnBFkYoU6dfJWk0AEkgk24OwZADIqmt6W11mrao&v=1&r=http%3a%2f%2fnews.franchiseindia.com%2frestaurant%2fIndian-Railways-going-back-to-IRCTC-for-catering-services.n13378&p=DevEx,5054.1"
+        }
+      ]
+    },
+    {
+      "name": "Trak.in",
+      "count": 2,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Indian Railways Modernization: Battery Operated Cars For Disabled & Elderly; TRI NETRA To Avoid Train Accidents",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=FMFEg7SYOMcyczOON5qk9C8vTFLtyV4eJT9BBgR-Oew&v=1&r=http%3a%2f%2ftrak.in%2ftags%2fbusiness%2f2016%2f07%2f11%2findian-railways-boc-disabled-elderly-tri-netra-train-accidents%2f&p=DevEx,5013.1"
+        },
+        {
+          "name": "Indian Railways Modernization: Battery Operated Cars For Disabled & Elderly; TRI NETRA To Avoid Train Accidents",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=FMFEg7SYOMcyczOON5qk9C8vTFLtyV4eJT9BBgR-Oew&v=1&r=http%3a%2f%2ftrak.in%2ftags%2fbusiness%2f2016%2f07%2f11%2findian-railways-boc-disabled-elderly-tri-netra-train-accidents%2f&p=DevEx,5020.1"
+        }
+      ]
+    },
+    {
+      "name": "ScienceAndTechnology",
+      "count": 7,
+      "group": 1,
+      "articles": [
+        {
+          "name": "Indian Railways Modernization: Battery Operated Cars For Disabled & Elderly; TRI NETRA To Avoid Train Accidents",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=FMFEg7SYOMcyczOON5qk9C8vTFLtyV4eJT9BBgR-Oew&v=1&r=http%3a%2f%2ftrak.in%2ftags%2fbusiness%2f2016%2f07%2f11%2findian-railways-boc-disabled-elderly-tri-netra-train-accidents%2f&p=DevEx,5013.1"
+        },
+        {
+          "name": "Indian Railways flags off state of the art train to transport cars",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=teA6tLzCZ-oVBteHjWayVm6t20kZQvsF-sjgEqlsQu8&v=1&r=http%3a%2f%2fwww.rushlane.com%2fstate-of-the-art-train-to-transport-cars-12200621.html&p=DevEx,5021.1"
+        },
+        {
+          "name": "Tracking tickets, delivering food to bring back romance of rail journeys",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=aJQoOwJQU7RWbAWk2k-6mQaUgOrDWWtz20_64h7CJ5E&v=1&r=http%3a%2f%2ftimesofindia.indiatimes.com%2ftrend-tracking%2fIndian-railways-startups-trains%2farticleshow%2f53243672.cms&p=DevEx,5039.1"
+        },
+        {
+          "name": "PM to bring railways up to speed",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=0brYTg4xsakn7B3wSWZbHKthrr5FAKB50A3Jw5tOOoU&v=1&r=http%3a%2f%2fwww.newindianexpress.com%2fthesundaystandard%2fPM-to-bring-railways-up-to-speed%2f2016%2f07%2f17%2farticle3532716.ece&p=DevEx,5045.1"
+        },
+        {
+          "name": "Indian railways launched Auto Express for faster delivery of automobiles",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=IJxMYNFAhWTJcgclvL-pDNRGmw7mK9T7y0nZHuGXL_A&v=1&r=http%3a%2f%2fauto.economictimes.indiatimes.com%2fnews%2findustry%2findian-railways-launched-auto-express-for-faster-delivery-of-automobiles%2f53179167&p=DevEx,5051.1"
+        },
+        {
+          "name": "Indian Railways Modernization: Battery Operated Cars For Disabled & Elderly; TRI NETRA To Avoid Train Accidents",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=FMFEg7SYOMcyczOON5qk9C8vTFLtyV4eJT9BBgR-Oew&v=1&r=http%3a%2f%2ftrak.in%2ftags%2fbusiness%2f2016%2f07%2f11%2findian-railways-boc-disabled-elderly-tri-netra-train-accidents%2f&p=DevEx,5020.1"
+        },
+        {
+          "name": "The Unusable Ticketing System?",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=A5kTTO5pdfyq--DXaMbWRv6KFsF4Glt7EnQuReHNdJ8&v=1&r=http%3a%2f%2fwww.thehindubusinessline.com%2fspecials%2ftechnophile%2fthe-unusable-ticketing-system%2farticle8876643.ece&p=DevEx,5034.1"
+        }
+      ]
+    },
+    {
+      "name": "Financial Express",
+      "count": 4,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Indian Railways train delay reduced by 30 per cent: Survey",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=VVTcjIlbaB2tUE8NTU6MaVRO9SdA24ZTJOZopjerTFU&v=1&r=http%3a%2f%2fwww.financialexpress.com%2feconomy%2findian-railways-train-delay-reduced-30-per-cent-survey%2f318954%2f&p=DevEx,5015.1"
+        },
+        {
+          "name": "Delhi to Mumbai in less than 12 hours? Talgo will first have to pass these three tests by Indian Railways",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=h1fcmFw3v2dSpURA69JCVeYogjpr82u4X16_PuaOjsM&v=1&r=http%3a%2f%2fwww.financialexpress.com%2findia-news%2ftalgo-trials-indian-railways-suresh-prabhu-delhi-mumbai-rajdhani-high-speed-train%2f316425%2f&p=DevEx,5017.1"
+        },
+        {
+          "name": "Indian Railways rolls out modern unreserved coach with latest amenities: Check out features",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=d2cp7neUv4E7tvnhiJxsntky1OJAvq7ATOHFgDB93gs&v=1&r=http%3a%2f%2fwww.financialexpress.com%2feconomy%2fdeen-dayalu-indian-railways-rolls-out-modern-unreserved-coach-with-latest-amenities-check-out-features%2f322415%2f&p=DevEx,5066.1"
+        },
+        {
+          "name": "Indian Railways train delay reduced by 30 per cent: Survey",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=VVTcjIlbaB2tUE8NTU6MaVRO9SdA24ZTJOZopjerTFU&v=1&r=http%3a%2f%2fwww.financialexpress.com%2feconomy%2findian-railways-train-delay-reduced-30-per-cent-survey%2f318954%2f&p=DevEx,5046.1"
+        }
+      ]
+    },
+    {
+      "name": "LifeStyle",
+      "count": 9,
+      "group": 1,
+      "articles": [
+        {
+          "name": "Indian Railways train delay reduced by 30 per cent: Survey",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=VVTcjIlbaB2tUE8NTU6MaVRO9SdA24ZTJOZopjerTFU&v=1&r=http%3a%2f%2fwww.financialexpress.com%2feconomy%2findian-railways-train-delay-reduced-30-per-cent-survey%2f318954%2f&p=DevEx,5015.1"
+        },
+        {
+          "name": "Delhi to Mumbai in less than 12 hours? Talgo will first have to pass these three tests by Indian Railways",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=h1fcmFw3v2dSpURA69JCVeYogjpr82u4X16_PuaOjsM&v=1&r=http%3a%2f%2fwww.financialexpress.com%2findia-news%2ftalgo-trials-indian-railways-suresh-prabhu-delhi-mumbai-rajdhani-high-speed-train%2f316425%2f&p=DevEx,5017.1"
+        },
+        {
+          "name": "Indian Railways, travel agency directed to pay Rs 6,000 for charging Rs 60 extra",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=r_SpYMK8-Gq3-Ktfh6lQyemjzyvQz4dLYNvDKNvZNOU&v=1&r=http%3a%2f%2fwww.hindustantimes.com%2fpunjab%2findian-railways-travel-agency-directed-to-pay-rs-6-000-for-charging-rs-60-extra%2fstory-6hIa9dqLjKB7oVdEKFAd8I.html&p=DevEx,5019.1"
+        },
+        {
+          "name": "Railway to unveil vintage hotels on \u2018Palace on Wheel\u2019 coaches",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=rtwetwzMkK1gE6Wt85bA5cWhwz0LnWPZJOmDt9ycziM&v=1&r=http%3a%2f%2findianexpress.com%2farticle%2findia%2findia-news-india%2frailway-to-unveil-vintage-hotels-on-palace-on-wheel-coaches-2918965%2f&p=DevEx,5078.1"
+        },
+        {
+          "name": "Rail passengers can now get a taste of Army rations",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=wCKNN0Yw42xh-a6fyo_ggxGm5ZZE7IdFElpPk81aJZQ&v=1&r=http%3a%2f%2fwww.thehindu.com%2fnews%2fcities%2fchennai%2frail-passengers-can-now-get-a-taste-of-army-rations%2farticle8863965.ece&p=DevEx,5047.1"
+        },
+        {
+          "name": "Indian Railways rolls out modern unreserved coach with latest amenities: Check out features",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=d2cp7neUv4E7tvnhiJxsntky1OJAvq7ATOHFgDB93gs&v=1&r=http%3a%2f%2fwww.financialexpress.com%2feconomy%2fdeen-dayalu-indian-railways-rolls-out-modern-unreserved-coach-with-latest-amenities-check-out-features%2f322415%2f&p=DevEx,5066.1"
+        },
+        {
+          "name": "New Railway coaches for the General Class called Deen Dayalu (Photos)",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=pRevMcqbmOatDF7h-HAKpcAe2Wj8D2DHj1RJRKP2IXQ&v=1&r=http%3a%2f%2fwww.rushlane.com%2findian-railways-2016-general-class-coach-12201122.html&p=DevEx,5040.1"
+        },
+        {
+          "name": "Indian Railways train delay reduced by 30 per cent: Survey",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=VVTcjIlbaB2tUE8NTU6MaVRO9SdA24ZTJOZopjerTFU&v=1&r=http%3a%2f%2fwww.financialexpress.com%2feconomy%2findian-railways-train-delay-reduced-30-per-cent-survey%2f318954%2f&p=DevEx,5046.1"
+        },
+        {
+          "name": "Indian Railways, travel agency directed to pay Rs 6,000 for charging Rs 60 extra",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=r_SpYMK8-Gq3-Ktfh6lQyemjzyvQz4dLYNvDKNvZNOU&v=1&r=http%3a%2f%2fwww.hindustantimes.com%2fpunjab%2findian-railways-travel-agency-directed-to-pay-rs-6-000-for-charging-rs-60-extra%2fstory-6hIa9dqLjKB7oVdEKFAd8I.html&p=DevEx,5048.1"
+        }
+      ]
+    },
+    {
+      "name": "Hindustan Times",
+      "count": 2,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Indian Railways, travel agency directed to pay Rs 6,000 for charging Rs 60 extra",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=r_SpYMK8-Gq3-Ktfh6lQyemjzyvQz4dLYNvDKNvZNOU&v=1&r=http%3a%2f%2fwww.hindustantimes.com%2fpunjab%2findian-railways-travel-agency-directed-to-pay-rs-6-000-for-charging-rs-60-extra%2fstory-6hIa9dqLjKB7oVdEKFAd8I.html&p=DevEx,5019.1"
+        },
+        {
+          "name": "Indian Railways, travel agency directed to pay Rs 6,000 for charging Rs 60 extra",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=r_SpYMK8-Gq3-Ktfh6lQyemjzyvQz4dLYNvDKNvZNOU&v=1&r=http%3a%2f%2fwww.hindustantimes.com%2fpunjab%2findian-railways-travel-agency-directed-to-pay-rs-6-000-for-charging-rs-60-extra%2fstory-6hIa9dqLjKB7oVdEKFAd8I.html&p=DevEx,5048.1"
+        }
+      ]
+    },
+    {
+      "name": "Rush Lane",
+      "count": 2,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Indian Railways flags off state of the art train to transport cars",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=teA6tLzCZ-oVBteHjWayVm6t20kZQvsF-sjgEqlsQu8&v=1&r=http%3a%2f%2fwww.rushlane.com%2fstate-of-the-art-train-to-transport-cars-12200621.html&p=DevEx,5021.1"
+        },
+        {
+          "name": "New Railway coaches for the General Class called Deen Dayalu (Photos)",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=pRevMcqbmOatDF7h-HAKpcAe2Wj8D2DHj1RJRKP2IXQ&v=1&r=http%3a%2f%2fwww.rushlane.com%2findian-railways-2016-general-class-coach-12201122.html&p=DevEx,5040.1"
+        }
+      ]
+    },
+    {
+      "name": "Franchise India News",
+      "count": 2,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Indian Railways going back to IRCTC for catering services",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=P2cQNnBFkYoU6dfJWk0AEkgk24OwZADIqmt6W11mrao&v=1&r=http%3a%2f%2fnews.franchiseindia.com%2frestaurant%2fIndian-Railways-going-back-to-IRCTC-for-catering-services.n13378&p=DevEx,5023.1"
+        },
+        {
+          "name": "Indian Railways going back to IRCTC for catering services",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=P2cQNnBFkYoU6dfJWk0AEkgk24OwZADIqmt6W11mrao&v=1&r=http%3a%2f%2fnews.franchiseindia.com%2frestaurant%2fIndian-Railways-going-back-to-IRCTC-for-catering-services.n13378&p=DevEx,5054.1"
+        }
+      ]
+    },
+    {
+      "name": "The Times of India Blogs",
+      "count": 1,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Discontinuing the rail budget can be a first step for boosting autonomy of Indian Railways",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=eMe_fg6ljMFXCBMBZ8Oib4-4COt80yhOBgS60M1pz_w&v=1&r=http%3a%2f%2fblogs.timesofindia.indiatimes.com%2fminorityview%2fdiscontinuing-the-rail-budget-can-be-a-first-step-for-boosting-autonomy-of-indian-railways%2f&p=DevEx,5025.1"
+        }
+      ]
+    },
+    {
+      "name": "GAADI",
+      "count": 1,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Auto Express From Indian Railway Aims To Reduce Delivery Times Of Cars",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=MSIasxP3Ckgy4e0a_QmQtt8cOgQGUfFhRXEqedI2GDE&v=1&r=http%3a%2f%2fwww.gaadi.com%2fnews%2fauto-express-from-indian-railway-aims-to-reduce-delivery-times-of-cars-102483&p=DevEx,5070.1"
+        }
+      ]
+    },
+    {
+      "name": "The Hindu",
+      "count": 2,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Railway turns up heat on offenders misusing e-ticket platform",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=4Y-nyiBNhZNxBuILjJrt_U8Xa9RhbTl11w-JwsXtgEg&v=1&r=http%3a%2f%2fwww.thehindu.com%2fnews%2fnational%2fother-states%2frailway-turns-up-heat-on-offenders-misusing-eticket-platform%2farticle8863531.ece&p=DevEx,5029.1"
+        },
+        {
+          "name": "Rail passengers can now get a taste of Army rations",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=wCKNN0Yw42xh-a6fyo_ggxGm5ZZE7IdFElpPk81aJZQ&v=1&r=http%3a%2f%2fwww.thehindu.com%2fnews%2fcities%2fchennai%2frail-passengers-can-now-get-a-taste-of-army-rations%2farticle8863965.ece&p=DevEx,5047.1"
+        }
+      ]
+    },
+    {
+      "name": "Times of India",
+      "count": 4,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Railway coach went missing at Chennai Central",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=NeEPK82rltUoa2pxwAXtgnHKu7L3vXp4x5qOtlrYrbA&v=1&r=http%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fchennai%2fRailway-coach-went-missing-at-Chennai-Central%2farticleshow%2f53258321.cms&p=DevEx,5031.1"
+        },
+        {
+          "name": "Tracking tickets, delivering food to bring back romance of rail journeys",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=aJQoOwJQU7RWbAWk2k-6mQaUgOrDWWtz20_64h7CJ5E&v=1&r=http%3a%2f%2ftimesofindia.indiatimes.com%2ftrend-tracking%2fIndian-railways-startups-trains%2farticleshow%2f53243672.cms&p=DevEx,5039.1"
+        },
+        {
+          "name": "Railways, SBI sign MoU for promoting rail ticketing system",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=DtNru2DfDqziqN2IqhVDjQcWesms4R_eL3JUHT3R4uw&v=1&r=http%3a%2f%2ftimesofindia.indiatimes.com%2fbusiness%2findia-business%2fRailways-SBI-sign-MoU-for-promoting-rail-ticketing-system%2farticleshow%2f53303355.cms&p=DevEx,5028.1"
+        },
+        {
+          "name": "IRCTC, SBI sign MoU on strengthening of rail ticketing activities",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=wDCGvhw3wU8M7eg2uE1P2GjBerZWf7lSehlYP24LAXE&v=1&r=http%3a%2f%2ftimesofindia.indiatimes.com%2fCity%2fAgra%2fIRCTC-SBI-sign-MoU-on-strengthening-of-rail-ticketing-activities%2farticleshow%2f53300621.cms&p=DevEx,5081.1"
+        }
+      ]
+    },
+    {
+      "name": "India Today",
+      "count": 3,
+      "group": 0,
+      "articles": [
+        {
+          "name": "IRCTC to convert old coaches of Palace on Wheels into theme-based eateries",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=0HWhUo7QTO0ntqnaOecNyUYPUOY7iikdoFpPwTh5zHY&v=1&r=http%3a%2f%2findiatoday.intoday.in%2fstory%2findian-railways-irctc-palace-on-wheels-theme-based-restaurants%2f1%2f717205.html&p=DevEx,5033.1"
+        },
+        {
+          "name": "New train of thought to revive ring rail in Delhi",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=rq38PqHcIrM0zx_XHd70uQBj8tORK2znZKgfyDdBKZU&v=1&r=http%3a%2f%2findiatoday.intoday.in%2fstory%2fring-railway-delhi-indian-railways%2f1%2f717203.html&p=DevEx,5035.1"
+        },
+        {
+          "name": "New train of thought to revive ring rail in Delhi",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=rq38PqHcIrM0zx_XHd70uQBj8tORK2znZKgfyDdBKZU&v=1&r=http%3a%2f%2findiatoday.intoday.in%2fstory%2fring-railway-delhi-indian-railways%2f1%2f717203.html&p=DevEx,5042.1"
+        }
+      ]
+    },
+    {
+      "name": "The Indian Express",
+      "count": 4,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Harjeet Kumar Jaggi takes over as Eastern Railway General Manager",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=AicMSGkGsvB4s5B8u76EdrUfGCFvtgX0VEenQuJ3y_U&v=1&r=http%3a%2f%2findianexpress.com%2farticle%2findia%2findia-news-india%2fharjeet-kumar-jaggi-takes-over-as-eastern-railway-general-manager-2920480%2f&p=DevEx,5037.1"
+        },
+        {
+          "name": "Railway to unveil vintage hotels on \u2018Palace on Wheel\u2019 coaches",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=rtwetwzMkK1gE6Wt85bA5cWhwz0LnWPZJOmDt9ycziM&v=1&r=http%3a%2f%2findianexpress.com%2farticle%2findia%2findia-news-india%2frailway-to-unveil-vintage-hotels-on-palace-on-wheel-coaches-2918965%2f&p=DevEx,5078.1"
+        },
+        {
+          "name": "Indian Railways to install solar panels in all railway buildings",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=VlQiBcfNpjojxGsu866vCsPvXa522-sNjLztVmwt_iU&v=1&r=http%3a%2f%2findianexpress.com%2farticle%2findia%2findia-news-india%2findian-railways-to-install-solar-panels-in-all-railway-buildings-2920748%2f&p=DevEx,5014.1"
+        },
+        {
+          "name": "Harjeet Kumar Jaggi takes over as Eastern Railway General Manager",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=AicMSGkGsvB4s5B8u76EdrUfGCFvtgX0VEenQuJ3y_U&v=1&r=http%3a%2f%2findianexpress.com%2farticle%2findia%2findia-news-india%2fharjeet-kumar-jaggi-takes-over-as-eastern-railway-general-manager-2920480%2f&p=DevEx,5044.1"
+        }
+      ]
+    },
+    {
+      "name": "International Business Times",
+      "count": 2,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Indian luxury train coaches could turn vintage restaurants",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=IjT2F50wGBinzt6M0fFRieEkuHKMZBLU12NOrZuD47o&v=1&r=http%3a%2f%2fwww.ibtimes.co.in%2findian-luxury-train-coaches-could-turn-vintage-restaurants-686966&p=DevEx,5082.1"
+        },
+        {
+          "name": "Indian luxury train coaches could turn vintage restaurants",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=IjT2F50wGBinzt6M0fFRieEkuHKMZBLU12NOrZuD47o&v=1&r=http%3a%2f%2fwww.ibtimes.co.in%2findian-luxury-train-coaches-could-turn-vintage-restaurants-686966&p=DevEx,5097.1"
+        }
+      ]
+    },
+    {
+      "name": "The New Indian Express",
+      "count": 3,
+      "group": 0,
+      "articles": [
+        {
+          "name": "PM to bring railways up to speed",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=0brYTg4xsakn7B3wSWZbHKthrr5FAKB50A3Jw5tOOoU&v=1&r=http%3a%2f%2fwww.newindianexpress.com%2fthesundaystandard%2fPM-to-bring-railways-up-to-speed%2f2016%2f07%2f17%2farticle3532716.ece&p=DevEx,5045.1"
+        },
+        {
+          "name": "Indian Railways mulling 'pay and name a train' option to boost revenue",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=RrqNYIcfgYaZ_S-q-46K3ueiVs5CI9tBYwDpAPaopRw&v=1&r=http%3a%2f%2fwww.newindianexpress.com%2fnation%2fIndian-Railways-mulling-pay-and-name-a-train-option-to-boost-revenue%2f2016%2f07%2f13%2farticle3527626.ece&p=DevEx,5053.1"
+        },
+        {
+          "name": "Railways to start voluntary passenger insurance scheme from September",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=T9HrSkGcss5abNV0e1EmS-8EynGrUQDHw8rrmdYiNV0&v=1&r=http%3a%2f%2fwww.newindianexpress.com%2fnation%2fRailways-to-start-voluntary-passenger-insurance-scheme-from-September%2f2016%2f07%2f20%2farticle3538957.ece&p=DevEx,5032.1"
+        }
+      ]
+    },
+    {
+      "name": "drivespark.com",
+      "count": 1,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Indian Railways Launches \u2018Auto Express\u2019 For Faster Delivery Of Automobiles",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=eVKy1Iz9O9UbaTcRahWe5Aa2kn4V1o4OrDgtKQZX9g4&v=1&r=http%3a%2f%2fwww.drivespark.com%2foff-beat%2findian-railways-launches-auto-express-a-car-freight-train-015793.html&p=DevEx,5049.1"
+        }
+      ]
+    },
+    {
+      "name": "ET Auto.com",
+      "count": 1,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Indian railways launched Auto Express for faster delivery of automobiles",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=IJxMYNFAhWTJcgclvL-pDNRGmw7mK9T7y0nZHuGXL_A&v=1&r=http%3a%2f%2fauto.economictimes.indiatimes.com%2fnews%2findustry%2findian-railways-launched-auto-express-for-faster-delivery-of-automobiles%2f53179167&p=DevEx,5051.1"
+        }
+      ]
+    },
+    {
+      "name": "Live Mint",
+      "count": 1,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Why we don\u2019t need a railway budget",
+          "url": "http:\/\/www.bing.com\/cr?IG=BF868D7189B74ECA9CAD3BEC7C97C528&CID=378B168D67476DDB1E6C1FDB66766C26&rd=1&h=gSVkpRCsyMFqjqt8HvfPfxMkh_jyTPE9tSCrv54cCqk&v=1&r=http%3a%2f%2fwww.livemint.com%2fPolitics%2fp84CBbyxCW5AxFvyUBFqjL%2fWhy-we-dont-need-a-railway-budget.html&p=DevEx,5055.1"
+        }
+      ]
+    },
+    {
+      "name": "IndiaTimes",
+      "count": 1,
+      "group": 0,
+      "articles": [
+        {
+          "name": "The Indian Railways Managed To Lose A 120 Ton Train Engine. Now They're Desperately Hunting For It Across India!",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=A_DKHeSl4S_ZGpL1oj2sSho4Pznq58OHGP-5uOvC14Q&v=1&r=http%3a%2f%2fwww.indiatimes.com%2fnews%2findia%2fthe-indian-railways-managed-to-lose-a-120-ton-train-engine-now-they-re-desperately-hunting-for-it-across-india-258677.html&p=DevEx,5010.1"
+        }
+      ]
+    },
+    {
+      "name": "Zee News",
+      "count": 1,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Bizarre! Indian Railways' electric locomotive goes missing",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=vBzIdP4wMBoD0Yo4ePfxocC2OB967cb4T_M4rXbG7fQ&v=1&r=http%3a%2f%2fzeenews.india.com%2fnews%2findia%2fbizarre-indian-railways-electric-locomotive-goes-missing_1908947.html&p=DevEx,5060.1"
+        }
+      ]
+    },
+    {
+      "name": "World",
+      "count": 2,
+      "group": 1,
+      "articles": [
+        {
+          "name": "Indian Railways to install solar panels in all railway buildings",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=VlQiBcfNpjojxGsu866vCsPvXa522-sNjLztVmwt_iU&v=1&r=http%3a%2f%2findianexpress.com%2farticle%2findia%2findia-news-india%2findian-railways-to-install-solar-panels-in-all-railway-buildings-2920748%2f&p=DevEx,5014.1"
+        },
+        {
+          "name": "Mumbai-Ahmedabad bullet train to be ready by 2023-24: Suresh Prabhu",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=u-itZCIxWs0d8VD8On1Pq8ElUO3-EMc7D3ZnzHLVW_E&v=1&r=http%3a%2f%2fwww.abplive.in%2findia-news%2fmumbai-ahmedabad-bullet-train-to-be-ready-by-2023-24-suresh-prabhu-384137&p=DevEx,5026.1"
+        }
+      ]
+    },
+    {
+      "name": "Rediff India Abroad",
+      "count": 1,
+      "group": 0,
+      "articles": [
+        {
+          "name": "IRCTC joins hands with SBI to promote rail ticketing",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=NvboVjucavykMBLfV782iZewWKMFX8gxoc_x7LvL-_Q&v=1&r=http%3a%2f%2fwww.rediff.com%2fbusiness%2freport%2firctc-joins-hands-with-sbi-to-promote-rail-ticketing%2f20160720.htm&p=DevEx,5024.1"
+        }
+      ]
+    },
+    {
+      "name": "ABP NEWS",
+      "count": 1,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Mumbai-Ahmedabad bullet train to be ready by 2023-24: Suresh Prabhu",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=u-itZCIxWs0d8VD8On1Pq8ElUO3-EMc7D3ZnzHLVW_E&v=1&r=http%3a%2f%2fwww.abplive.in%2findia-news%2fmumbai-ahmedabad-bullet-train-to-be-ready-by-2023-24-suresh-prabhu-384137&p=DevEx,5026.1"
+        }
+      ]
+    },
+    {
+      "name": "Firstpost",
+      "count": 1,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Mohammad Shahid, Indian hockey Olympic gold medallist, passes away",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=wGtJvOgZ3vh4visXv4tPVQ_njpNyRJwhvZngBNq-1m0&v=1&r=http%3a%2f%2fwww.firstpost.com%2fsports%2fmohammad-shahid-indian-hockey-olympic-gold-medallist-passes-away-2903918.html&p=DevEx,5076.1"
+        }
+      ]
+    },
+    {
+      "name": "The Hindu Business Line",
+      "count": 2,
+      "group": 0,
+      "articles": [
+        {
+          "name": "The Unusable Ticketing System?",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=A5kTTO5pdfyq--DXaMbWRv6KFsF4Glt7EnQuReHNdJ8&v=1&r=http%3a%2f%2fwww.thehindubusinessline.com%2fspecials%2ftechnophile%2fthe-unusable-ticketing-system%2farticle8876643.ece&p=DevEx,5034.1"
+        },
+        {
+          "name": "Dog in the manger",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=PJ9WOS5XpuDaZGSmRqEIaFXNVayecQpyeqTp_ixlbEk&v=1&r=http%3a%2f%2fwww.thehindubusinessline.com%2fopinion%2feditorial%2fdog-in-the-manger%2farticle8876716.ece&p=DevEx,5036.1"
+        }
+      ]
+    },
+    {
+      "name": "Daily News and Analysis",
+      "count": 1,
+      "group": 0,
+      "articles": [
+        {
+          "name": "India has lost a talented sportsman who played with immense passion: PM Modi pays tribute to Mohammad Shahid",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=jxPiGSPduJD3ArLuN4HQRxSgaOhh23W-I8eQYvsdHKg&v=1&r=http%3a%2f%2fwww.dnaindia.com%2fsport%2freport-india-has-lost-a-talented-sportsman-who-played-with-immense-passion-pm-modi-pays-tribute-to-mohammad-shahid-2236359&p=DevEx,5092.1"
+        }
+      ]
+    },
+    {
+      "name": "Sports",
+      "count": 1,
+      "group": 1,
+      "articles": [
+        {
+          "name": "India has lost a talented sportsman who played with immense passion: PM Modi pays tribute to Mohammad Shahid",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=jxPiGSPduJD3ArLuN4HQRxSgaOhh23W-I8eQYvsdHKg&v=1&r=http%3a%2f%2fwww.dnaindia.com%2fsport%2freport-india-has-lost-a-talented-sportsman-who-played-with-immense-passion-pm-modi-pays-tribute-to-mohammad-shahid-2236359&p=DevEx,5092.1"
+        }
+      ]
+    },
+    {
+      "name": "Economic Times",
+      "count": 1,
+      "group": 0,
+      "articles": [
+        {
+          "name": "Railways spent Rs 315 crore on cleanliness in 2015-16: Government",
+          "url": "http:\/\/www.bing.com\/cr?IG=8EE20EC97D6B4711B0CB4F45E5E68764&CID=2E7948FD16F06FB8292941A517C16EBC&rd=1&h=pGDEMUOfwWDFfAZpbgUk2J7v379e8zbgzHG_9RzAxtM&v=1&r=http%3a%2f%2feconomictimes.indiatimes.com%2findustry%2ftransportation%2frailways%2frailways-spent-rs-315-crore-on-cleanliness-in-2015-16-government%2farticleshow%2f53304185.cms&p=DevEx,5052.1"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "weight": 2
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "weight": 2
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "weight": 2
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "weight": 4
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "weight": 2
+    },
+    {
+      "source": 10,
+      "target": 6,
+      "weight": 1
+    },
+    {
+      "source": 11,
+      "target": 4,
+      "weight": 2
+    },
+    {
+      "source": 12,
+      "target": 4,
+      "weight": 1
+    },
+    {
+      "source": 15,
+      "target": 4,
+      "weight": 1
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "weight": 1
+    },
+    {
+      "source": 17,
+      "target": 4,
+      "weight": 2
+    },
+    {
+      "source": 15,
+      "target": 6,
+      "weight": 1
+    },
+    {
+      "source": 17,
+      "target": 8,
+      "weight": 1
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "weight": 2
+    },
+    {
+      "source": 19,
+      "target": 6,
+      "weight": 1
+    },
+    {
+      "source": 14,
+      "target": 8,
+      "weight": 1
+    },
+    {
+      "source": 21,
+      "target": 6,
+      "weight": 1
+    },
+    {
+      "source": 22,
+      "target": 4,
+      "weight": 1
+    },
+    {
+      "source": 17,
+      "target": 25,
+      "weight": 1
+    },
+    {
+      "source": 27,
+      "target": 25,
+      "weight": 1
+    },
+    {
+      "source": 19,
+      "target": 4,
+      "weight": 1
+    },
+    {
+      "source": 29,
+      "target": 6,
+      "weight": 1
+    },
+    {
+      "source": 29,
+      "target": 4,
+      "weight": 1
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "weight": 1
+    },
+    {
+      "source": 30,
+      "target": 31,
+      "weight": 1
+    }
+  ]
+}

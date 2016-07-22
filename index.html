@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="author" content="Uday Khandelwal, My home page">
+<title> Network Graph | Indian Railways </title>
+
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-flatly-min.css" rel="stylesheet">
+<!--<link href="css/styles.css" rel="stylesheet">-->
+
+<script src="http://d3js.org/d3.v2.min.js?2.9.3"></script>
+<script src="js/jquery-2.1.4.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+<script src="js/handlebars-v3.0.3.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+<style>
+
+.link {
+  stroke: #aaa;
+}
+
+.node text {
+stroke:#333;
+cursos:pointer;
+}
+
+.node circle{
+stroke:#fff;
+stroke-width:3px;
+fill:#555;
+}
+
+</style>
+
+<body>
+
+<script>
+
+/* Parsing the JSON file */
+try {
+  
+   $.getJSON("js/Indian_Railways_Bing_API.txt",function(data){
+      console.log('Parsing the JSON file'); 
+
+      var providers = {
+        nodes:[],
+        links:[]
+      };
+
+      var count = 0;
+      var orgIndex; 
+      var categoryIndex; 
+      var myJSONarray; 
+      $.each(data.value,function(index, element){
+          
+         
+          $.each(element.provider,function(key,val){
+     
+            var found = providers.nodes.some(function(el){
+              return el.name === val.name;
+            })
+
+            if(found){
+              console.log('Element is found!');
+              indexes = $.map(providers.nodes,function(obj,index){
+                  if(obj.name == val.name){
+                      return index;
+                    }
+              })
+              providers.nodes[indexes].count++;
+              orgIndex = indexes[0];
+            }
+              
+            else {
+                 providers.nodes.push({
+                  "name":val.name,
+                  "count":1,
+                  "group":0,
+                  "articles":[]
+                });
+                orgIndex = providers.nodes.length - 1 ;  
+              }
+             
+              
+          });
+
+          providers.nodes[orgIndex].articles.push({
+            "name":element.name,
+            "url":element.url
+          })
+        
+        if(element.category != null){
+
+           var found = providers.nodes.some(function(el){
+            return el.name === element.category;
+          })
+
+          if(found){
+            console.log('Element is found!');
+            indexes = $.map(providers.nodes,function(obj,index){
+                if(obj.name == element.category){
+                    return index;
+                  }
+            })
+            providers.nodes[indexes].count++;
+            categoryIndex = indexes[0];
+          }
+            
+          else {
+               providers.nodes.push({
+                "name":element.category,
+                "count":1,
+                "group":1,
+                "articles":[]
+              });
+                categoryIndex = providers.nodes.length;
+                categoryIndex = categoryIndex - 1 ;  
+            }
+
+            providers.nodes[categoryIndex].articles.push({
+            "name":element.name,
+            "url":element.url
+           })
+          
+           var found = providers.links.some(function(el){
+            return (el.source === orgIndex) && (el.target === categoryIndex);
+            })
+
+          if(found){
+                console.log('Link element duplicate found !');
+                indexes = $.map(providers.links,function(obj,index){
+                if(obj.target == categoryIndex && obj.source == orgIndex){
+                    return index;
+                  }
+            })
+            providers.links[indexes].weight++;
+          }
+          else { 
+            providers.links.push({
+              "source":orgIndex,
+              "target":categoryIndex,
+              "weight":1
+            })
+          }
+        }
+        
+    });
+
+     var JSONarray = JSON.stringify(providers); 
+     console.log(JSONarray);
+   });
+
+
+} catch(e){
+  console.log('Error parsing the JSON file');
+}
+
+
+
+</script>
+
+
+
+
+
