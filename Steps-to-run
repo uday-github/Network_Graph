@@ -1,0 +1,11 @@
+# Steps to Run 
+- To see the visualization, run the index_1.html file in the Local Web server, such as the Webserver for Chrome extension. 
+- To generate the .json file , run the index.html file with the web server. 
+
+# Libraries used :
+
+- d3.js
+- Jquey
+- Handlebars 
+- Bootstrap. 
+
